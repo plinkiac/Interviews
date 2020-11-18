@@ -4,7 +4,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title
 06/13/2004 | 00:00:00 | bit.ly/3kAG04d | Interview with Writer & Director Mike Stoklasa
 06/25/2004 | 00:00:00 | bit.ly/3nwvcWF | Interview with Writer & Director Rich Evans
 10/05/2004 | 00:00:00 | bit.ly/3f5vCR4 | Interview with Lauren Burke of Blanc Screen Cinema
-10/17/2004 | 00:00:00 | bit.ly/3pC3wl4 | Interview with Jay Bauman of Blanc Screen Cinema (2004)
+10/17/2004 | 00:00:00 | bit.ly/3pC3wl4 | Interview with Jay Bauman of Blanc Screen Cinema
 02/04/2011 | 00:00:00 | bit.ly/3pDmE2o | Red Letter Media's Mike Stoklasa
 02/15/2011 | 00:00:00 | bit.ly/36KUGJ7 | Jocelyn Ridgely prepares for Nadine to take her Revenge
 03/11/2011 | 00:00:00 | bit.ly/36NYpWF | Nerd Alert - Pokemon Black White (special guest Mike Stoklasa)
