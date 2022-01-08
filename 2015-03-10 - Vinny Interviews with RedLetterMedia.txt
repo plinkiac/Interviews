@@ -2,34 +2,34 @@ Mar 10, 2015
 Vinny Interviews RedLetterMedia
 https://www.youtube.com/watch?v=NVb2X3DvO20
 
-Vinny:
+VINNY:
 What's up, guys? How's everyone doing today? I am here to do an interview. And you guys know who I'm interviewing. This is a very cool day. So, if you don't know who I am interviewing, these are two guys from RedLetterMedia, Jack and Rich. And, you know, they do a show called Previously Recorded Live. So, we're going to chat about video games. We'll chat about RedLetterMedia, and we'll just bullshit a little bit. So, I'm going to give them a call and we'll get started. Hey, guys. 
 
-Rich:
+RICH:
 Hello! How are you doing?
 
-Vinny:
+VINNY:
 Good! So, you’re live with Vinesauce. And I'd like to introduce you two. I'm here with Jack Picard and Rick Stevens. 
 
-Jack:
+JACK:
 Absolutely.
 
-Rich:
+RICH:
 Sure. Sure, that's fine. That's, that's close enough.
 
-Vinny:
+VINNY:
 Rick Stevens and -- all right, Mr. Picard. Listen, listen. It's great to have you guys here, Jack and Rich. And, uh, I wanted to, I wanted to talk to you guys a little bit about some, some stuff related to video games and, and movies, and, you know, the full spectrum of what you guys do.
 
-Rich:
+RICH:
 Sure, sure.
 
-Vinny:
+VINNY:
 So, first off, thanks again for agreeing to this. This is a very special moment for a lot of people on this site. Believe it or not. 
 
-Rich:
+RICH:
 I don't know why. I'm just in shock. 
 
-Jack:
+JACK:
 Pretty much, we're schmucks, but thanks. Thanks for coming on.
 
 Rich
@@ -38,3035 +38,3276 @@ I appreciate everybody who's glad.
 Vinny
 I'll tell you what. Three shmucks together on a call. It’s, it's gonna be great.
 
-Jack:
+JACK:
 Yeah.
 
 Vinny
 So, my first question, though. I wanted to actually kind of find out what the impetus behind Previously Recorded was. Like, all right, so it’s a video game show. You guys discuss video games. You started with, uh, Risk of Rain, right?
 
-Rich:
+RICH:
 Yeah.
 
 Vinny
 And, um, how did this idea come about? How did you two start this?
 
-Rich:
+RICH:
 Uh, well, I was just talking with Mike. We just wanted, you know, expand the, the site, and add another show. And, uh, Mike and Jay are absolutely clueless about video games. And I, I am the only one out of the, the, the, you know, the three of us who know anything about video games. And uh, we tried, like a year or two ago with a show called--
 
-Vinny:
+VINNY:
 Game Station 2.0?
 
-Rich:
+RICH:
 Yeah, Game Station 2.0. And it was just me in front of a camera reading, like, a review I wrote. And it was horribly awkward, because I’m just sitting in the room with Mike and Jay, and I’m getting no useful feedback. Because I’m talking about Batman: Arkam Asylum, and they’re, like, “uh what’s an Arkham?”
 
-Vinny:
+VINNY:
 Uh-huh.
 
-Rich:
+RICH:
 You know, they don't know...
 
-Jack:
+JACK:
 What’s an Arkham?
 
-Vinny:
+VINNY:
 Right.
 
-Rich:
+RICH:
 They don’t know what I’m talking about. And it’s just, it was an uncomfortable way to do the show. We, we tested it out. I, I didn’t enjoy it, so we stopped making it. And then, uh, like, I guess a year or so later, we wanted to try and get up another show. And I realized that Jack has an interest in video games.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 Whenever we're together, we usually have good video game conversations. So, it's like, you know, why we don’t try the video game thing again. At least I, you know, we'l bring Jack in, and I can, you know, we can feed off of each other, and have a conversation. 
 
-Jack:
+JACK:
 Yeah, basically every time we get together, we have to tell Mike and Jay to go away so Rich and I can talk about games.
 
-Vinny:
+VINNY:
 Uh-huh.
 
-Jack:
+JACK:
 And their eyes would glaze over. And so we just decided it would be a good idea to film it. 
 
-Rich:
+RICH:
 We, we'd be, like...
 
-Vinny:
+VINNY:
 So...
 
-Rich:
+RICH:
 Go ahead.
 
-Vinny:
+VINNY:
 Well, I was gonna say, it reminds me a bit of Half in the Bag, with video games, the way you guys are just conversational, and you talk about the games. No awkward pauses. No Mike dressed in space outfits. It's, it's, iit's pretty good. It's pretty good. It feels natural.
 
-Rich:
+RICH:
 You know, the reason it took a year after Game Station to get another show, the reason we didn't start me and Jack right away is because we were reluctant to just duplicate Half in the Bag, with me and Jack.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 We wanted to avoid that as much as we could. We wanted to be, you know, fresh somehow. Something, ssomething different, but...
 
-Jack:
+JACK:
 Absolutely. Well, that's why, you know, we shoot the show very differently than, than the other two shows on the site. And we, we try to, we try to be our own thing.
 
-Rich:
+RICH:
 Yeah.
 
-Jack:
+JACK:
 ...I guess?
 
-Vinny:
+VINNY:
 You get the--
 
-Rich:
+RICH:
 I mean, our personalities are different.
 
-Jack:
+JACK:
 Yeah.
 
-Rich:
+RICH:
 So that right there is something different.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 Sure. I mean, well, the video game thing in general, it's completely different. But, yeah, the personalities are different. The way you approach topics are different. And, um, you know Mike and Jay are, you know they do segments in the house, or in the repair shop. And you guys play video games. And you talk about them. And you keep it brief...
 
-Rich:
+RICH:
 Yeah.
 
-Vinny:
+VINNY:
 ...and it works. It, it's, it's much preferable to Game Station. Even with all the production value that it had, I'd much rather see you guys sit on a, on a couch or on a table, just talking about video games. It's, it's better. 
 
-Jack:
+JACK:
 I do miss the set, though. 
 
-Rich:
+RICH:
 I, I just, I think about that set -- you mentioning the production value just makes me laugh.
 
-Vinny:
+VINNY:
 "Production value."
 
-Jack:
+JACK:
 Hey, zer-, zero is a number, Rich.
 
-Vinny:
+VINNY:
 Tin foil and cardboard. 
 
-Rich:
+RICH:
 Basically.
 
-Vinny:
+VINNY:
 Um, so, well then you guys, Jack and, you know, I was, uh, chatting with you the other day while you were streaming, and you guys ended up moving to streaming live on Twitch. How did that happen? Like, what, what made you guys wanna do some live stuff? 
 
-Rich:
+RICH:
 Um, just kind of an extension from talking about doing a show together. I mean...
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 I know streaming on video games is pretty popular. Lests-play-type stuff. So, it just, I think from the very beginning, we always planned to do streaming, once we started talking about Previously Recorded. Actually, that's, that's one of the reasons it's called Previously Recorded. It's so we can have the joke when we do the stream. It's "Previously Recorded Live."
 
-Vinny:
+VINNY:
 "Previous Recorded Live." It’s, it's beautiful. And incredibly stupid. But it, it works.
 
-Jack:
+JACK:
 Mm-hmm, mm-hmm.
 
-Rich:
+RICH:
 We’re, we're getting our footing. We’re getting our footing.
 
-Jack:
+JACK:
 Yeah, and every stream is a set of new technical difficulties to, to work around. But we, we have a lot of fun, and it’s just an excuse for use to dick around for a couple of hours.
 
-Rich:
+RICH:
 It’s a, it's a, it's a game night excuse.
 
-Jack:
+JACK:
 Yeah.
 
-Rich:
+RICH:
 Essentially.
 
-Vinny:
+VINNY:
 Sure. And, uh, while you’re doing it, you havie some fun. Make people laugh a little bit.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 That’s what we do here, so, it's, for me, when I saw it happen, I was like, "Oh, this is perfect!" Um, but the thing is, I noticed Jay, Jay pops in a little bit, and he knows a little bit more about video games than Mike does. 
 
-Rich:
+RICH:
 Oh, Mike, Mike knows nothing. Mike, Mike...
 
-Vinny:
+VINNY:
 He doesn’t like games.
 
-Rich:
+RICH:
 He’s, he's a movie guy. Editing stuff -- that's Mike’s free time. 
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 I mean...
 
-Vinny:
+VINNY:
 Well, I mean...it's fun, too, I guess.
 
-Rich:
+RICH:
 Sure. I just, it, it's just not his thing. 
 
-Jack:
+JACK:
 Mm-hmm. 
 
-Vinny:
+VINNY:
 Well, being the video game guys, though, you guys, okay, so you go live, you get your stream on Twitch, and, uh, it's immediately pretty popular because of RedLetterMedia. And because you tweet it and everything.
 
-Rich:
+RICH:
 Uh-huh.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 Um, and immediately, everyone's like, "Play Dark Souls." Immediately. You know, that happened to me to, but...
 
-Rich:
+RICH:
 Yeah.
 
-Vinny:
+VINNY:
 I saw you guys playing. It looks like you had some fun, but, um, curious: How hs the progress gone with Dark Souls? Do you wish to revisit it, or are you done with that? Or, what's going on? 
 
-Rich:
+RICH:
 I, I, I may revisit it at some point, but I've, I've kind of been too busy with other things lately. Uh, Jac, you've played it some since, right?
 
-Jack:
+JACK:
 I, it's, I've been dipping my toes into it. It's, that was such a harsh experience. Playing live in front of, in front of a bunch of people. And then, of course, having everyone give us terrible advice. Just, just to, to troll us, uh...
 
-Rich:
+RICH:
 Yeah, Dark Souls was basically just the audience trolling us. 
 
-Jack:
+JACK:
 Yeah, it...
 
-Vinny:
+VINNY:
 Yup. I tried to, I was in chat, I was like, “No!” And it was lost in the sea of “Do it faggot, get good.” And I was just, like, I was, like, "Oh, fucking shit. Poor Jack. Poor Rich."
 
-Jack:
+JACK:
 "Learn how to roll, learn how to roll!"
 
-Vinny:
+VINNY:
 Yeah.
 
-Jack:
+JACK:
 But--
 
-Vinny:
+VINNY:
 “Try jumping off the cliff!”
 
-Rich:
+RICH:
 I don't I don't shy away from hard games. Uh, I know, I mean, it's ancient history now, but -- I don't know if you remember Maximo: Ghosts to Glory on the PS2...
 
-Vinny:
+VINNY:
 I actually do remember that. 
 
-Rich:
+RICH:
 Yeah, everybody said that was supposed to be the most difficult thing ever.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 And, uh, I've, I've beaten that game on one life.
 
-Jack:
+JACK:
 Nice.
 
-Rich:
+RICH:
 It's one of my proudest gaming accomplishments.
 
 Vinny;
 That's pretty good, Rich. 
 
-Rich:
+RICH:
 I don't, I don't shy away from hard games, but...
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 Dark Souls...that was just brutal. 
 
-Jack:
+JACK:
 Yes.
 
-Vinny:
+VINNY:
 Well, I had a similar experience, too. I played it for a while, and then I decided to stream it. And suddenly friends were not friends anymore. Um, people, people from the chat were like, "You know, Vin, you’re terrible.” And I was like, “Well, you're here to teach. Teach me.” And I, you know, it was mostly good advice, but I got about eight hours into the game, and I stopped so, good on you guys if you're gonna continue. They love it. Everyone loves Dark Souls. I don't know. 
 
-Jack:
+JACK:
 It's, you know, it's one of, like, Dark Souls, XCOM, Dota 2, those are, like, those are games that, the people that, that I look up to in the gaming world, those are the games that they're obsessed with.
 
-Vinny:
+VINNY:
 Mm-hmm.
 
-Jack:
+JACK:
 And so it's like, they have to be good. And, and I'm really glad we got, we got a chance to play Dark Souls. I'm looking forward to, to XCOM next, I think.
 
-Rich:
+RICH:
 I'm, I'm very much looking forward to XCOM, because I don't I don't suck at XCOM. I’m decent at XCOM, and I'm looking forward to actually watching you, Jack, struggle. We, we are going to name our soldiers after people on the stream. 
 
-Jack:
+JACK:
 Yes.
 
-Rich:
+RICH:
 And they're gonna die horribly.
 
-Vinny:
+VINNY:
 Oh, brilliant.
 
-Rich:
+RICH:
 And it's gonna be a marvelous thing.
 
-Jack:
+JACK:
 And I'm sorry already. 
 
-Vinny:
+VINNY:
 Well, that looks like it's gonna be a lot of fun. I'll probably be there for that. I'll try to check it out, and maybe you can kill me in a brutal and glorious way, as well.
 
-Rich:
+RICH:
 Sure.
 
-Vinny:
+VINNY:
 But, Jack, I wanted to mention, um, you like a lot of the same indie games that we like on the stream.
 
-Jack:
+JACK:
 Mm-hmm.
 
 Uh, my favorite is FTL.
 
-Jack:
+JACK:
 Mm. Um, Rich you like FTL as well, right? 
 
-Rich:
+RICH:
 Oh, god, yeah. Oh, love it.
 
-Vinny:
+VINNY:
 Um, and Binding of Isaac, Jack, that game, I mean, that game is just amazing. You guys, you played that recently, didn't you? 
 
-Jack:
+JACK:
 Yeah.
 
-Rich:
+RICH:
 Yeah.
 
-Jack:
+JACK:
 Last, last Wednesday, we actually played both. We played FTL and Binding of Isaac just because, they're fucking, they’re amazing games.
 
-Vinny:
+VINNY:
 So, is there something about the mechanic of "You die, you start over." Different set of rules can happen. You know, different scenarios, different items, different enemy layouts. Is there something about that formula that keeps you coming back?
 
-Rich:
+RICH:
 When, when you only have one life to live, beating a game feels so much more satisfying. 
 
-Jack:
+JACK:
 Mm-hmm.
 
 Rich;
 It's like...
 
-Vinny:
+VINNY:
 That sounds like the back of a VHS. "When you only have one life to live!"
 
-Rich:
+RICH:
 "You only have--"
 
-Vinny:
+VINNY:
 Continue, sorry. 
 
-Rich:
+RICH:
 "You only have one life to live. One man!"
 
-Vinny:
+VINNY:
 "One man’s quest!" So...
 
-Rich:
+RICH:
 But, yeah, I mean, you play a lot of modern-day shooters, and there's like an autosave checkpoint every 30 seconds.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 And then, you know it's, it's not really accomplishment beating that. Not that those games aren't fun.
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 But I'm just saying, like, in FTL, when you get to the, the end boss, and you beat that end boss for the first time, that feels like a, like an accomplishment right there.
 
-Jack:
+JACK:
 It's a shout out loud moment. 
 
-Rich:
+RICH:
 Yeah. Yeah.
 
-Vinny:
+VINNY:
 Absolutely. 
 
-Jack:
+JACK:
 And, you know, recently I've been, I've been going back to a bunch of Binding of Isaac because I'm so hyped for the Rebirth. 
 
-Vinny:
+VINNY:
 Oh, yeah?
 
-Jack:
+JACK:
 And, uh, I, so I’ve been going back to Binding of Isaac, and I’ve also been playing a bunch of, um, 1001 Spikes, and they’re very different games.
 
-Vinny:
+VINNY:
 Mm-hmm.
 
-Jack:
+JACK:
 You know, they both very hard, but, but 1001 Spikes have a set path.
 
-Vinny:
+VINNY:
 Right.
 
-Jack:
+JACK:
 And, you know, it’s just just all about learning the path, and eventually you just get the timing right. Whereas, something like FTL or Binding of Isaac or Risk of Rain, you know -- it's about mastering the mechanics, and, and maybe that's what draws me to those kinds of games, where you get to learn the moves so well that their second nature, and it's all that muscle memory. And then you're just playing, not knowing what's coming up. It's, it's more, it's more real? Does that--
 
-Vinny:
+VINNY:
 Mm-hmm.
 
-Jack:
+JACK:
 Is that a dumb thing to say? 
 
-Vinny:
+VINNY:
 No, not really.
 
-Rich:
+RICH:
 The, the other thing with, like, indie games, in general, too, I think, out of that scene, you're getting a lot more creativity...
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
+RICH:
 ...than you get out of the AAA titles. Like, E3...
 
-Vinny:
+VINNY:
 I know.
 
-Rich:
+RICH:
 ...more than, more than half the games -- I mean, they're all kind of non-descript, realistic shooters. And I've, I've played that, like, 30 times now. I'm, I'm ready for something new and something different, and, and indie games usually thrive by just having some kind of crazy idea. 
 
-Vinny:
+VINNY:
 Absolutely.
 
-Rich:
+RICH:
 And it's something different. 
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 Yeah. I, I totally agree. I mean, that's the thing. We'll get to E3, definitely. Um, that was a hell of a show, but, uh, some really, really boring moments. But we'll get to that in a minute.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 Um, you know just to stay on indie games for a second, though...
 
-Rich:
+RICH:
 Oh, yeah, yeah.
 
-Vinny:
+VINNY:
 Um, you know, you guys played some, like, 1001 Spikes, for example -- that one is one of my recent favorites -- is there anything coming up aside from Isaac Rebirth that you guys are looking forward to in the indie department? 
 
-Jack:
+JACK:
 Um, Hyper Light Drifter looks super awesome. 
 
-Vinny:
+VINNY:
 Oh yeah, definitely, Jack. 
 
-Jack:
+JACK:
 And, uh, also, uh, actually someone just sent me a copy of, uh, it's something that's still in early access: Nuclear Throne. 
 
-Vinny:
+VINNY:
 Oh, yeah.
 
-Jack:
+JACK:
 Looks fucking amaz-, and, you know, I think actually both are kind of like twin sticks. Twin stick shooters, which is just a genre I like, but, you know, Nuclear Throne looks really awesome, and so does Hyper Light Drifter. 
 
-Vinny:
+VINNY:
 Yeah, Nuclear Throne, um, I have a copy. That's a good game. That's a lot of fun. Really balls hard, though. So, yeah, that one's. That one's cool. I actually, we, uh, went to PAX this year, and I, we interviewed, um, Rami, the guy who made that. And, um, yeah, he doesn't take any shit. He's just, like, a no-nonsense guy with a no-nonsense game. It's like, "Okay, well, I guess I see his personality and his video games." But, um, yeah, that one's really good. Highly recommended.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 Um...
 
-Jack:
+JACK:
 Oh, yeah, I see exactly someone in the chat is mentioning, uh, Cuphead. I, I don't, I don't know anything about the mechanics of Cuphead. I can't tell you what kind of game it is. I just wanna play it 'cause the art style. That game looks awesome. 
 
-Rich:
+RICH:
 That's...
 
-Vinny:
+VINNY:
 Well, that's a good thing, too. Go ahead, Rich. Sorry.
 
-Rich:
+RICH:
 No, that’s fine. I mean, uh, it's, it's tech-, I dunno, I guess it's technically an indie game. I know, uh, Star Citizen is coming out, the, uh, what’s the, what's the Wing Commander guy?
 
-Jack:
+JACK:
 Oh, yeah!
 
-Rich:
+RICH:
 That’s his Kickstarter project.
 
-Jack:
+JACK:
 Mm-hmm. Mm-hmm.
 
-Rich:
+RICH:
 So that's, I guess that's the, the, the indie project I'm looking forward to, though. The, the Kickstarter funding that got. I don't know if you can even call that indie at this point.
 
-Vinny:
+VINNY:
 Wow.
 
-Rich:
+RICH:
 Millions of dollars to make that. 
 
-Vinny:
+VINNY:
 Do you see the way that game looks? Holy shit.
 
-Jack:
+JACK:
 Mm.
 
-Rich:
+RICH:
 I haven't seen much, uh, about it, other than I just, like, I read that it was, it was coming, and it's been so long since I've played a space flight sim.  I don't, I don't care what it looks like. I'll just play it.
 
-Vinny:
+VINNY:
 Well, that's, you know, that's gonna transition to E3 when we talk about No Man’s Sky, you know?
 
-Rich:
+RICH:
 Yeah.
 
-Vinny:
+VINNY:
 But, yeah, in terms of, of, just to finish up on indie games, though, yeah, there's a lot of creativity. Uh, just on a side note, I've been told that Edmund McMillen is a big fan of RedLetterMedia. So you guys might be able to link up with him. Um, I interviewed him twice. He's a great guy, and, um, I could probably pass something along, if you wanna chat with him one day or something?
 
-Jack:
+JACK:
 We've had a, we've had a couple of correspondences. He gave me a little shit because I wore a Binding of Isaac shirt on one of the Best of the Worst episodes, but apparently, it wasn't an official Binding of Isaac shirt. And I didn't know this, and so he, he tweeted at us, and gave us some shit for that. Unfortunately.
 
-Vinny:
+VINNY:
 Oh, no.
 
-Jack:
+JACK:
 But he seems like a good guy.
 
-Rich:
+RICH:
 Jack, you’re a horrible person.
 
-Vinny:
+VINNY:
 Ugh, Jack.
 
-Jack:
+JACK:
 I am.
 
-Vinny:
+VINNY:
 You tried your best.
 
-Jack:
+JACK:
 No, whoever sold that shirt is a horrible person for infringing on copy written material. 
 
-Vinny:
+VINNY:
 That’s a shame. Wow, um, he'll get over it. 
 
-Jack:
+JACK:
 Yeah, I'm sure he's fine. Um...
 
-Vinny:
+VINNY:
 So, yeah, I was gonna ask, uh, Shoji Tabuchi. Say he releases a 10-hour concert video. All right, do you watch the 10-hour concert video, or do you attempt to finish Superman 64 in one sitting? What, if you guys could choose, what would you choose? 
 
-Rich:
+RICH:
 Only one of those two things as possible.
 
-Jack:
+JACK:
 Shoji.
 
-Rich:
+RICH:
 Shoji.
 
-Jack:
+JACK:
 Absolutely Shoji 
 
-Rich:
+RICH:
 Shoji.
 
-Vinny:
+VINNY:
 You go for Shoji.
 
-Jack:
+JACK:
 Shoji is a beautiful musician. 
 
-Vinny:
+VINNY:
 He's a beautiful man.
 
-Jack:
+JACK:
 And a beautiful man. 
 
-Vinny:
+VINNY:
 Uh-huh.
 
-Rich:
+RICH:
 Why, why can't they make a decent Superman game?
 
-Vinny:
+VINNY:
 I don’t know.
 
-Rich:
+RICH:
 Why is that so hard?
 
-Jack:
+JACK:
 It's, it's the same with Wolverine. It's the, the rules of the comic books mean that they're invincible, so you can just...
 
-Rich:
+RICH:
 Well, that's, that's the thing, though. You play that up.
 
-Jack:
+JACK:
 Mm-hmm. 
 
-Rich:
+RICH:
 You just make a game where you are invincible, and you can just destroy shit. You do it, you do it like, uh, Hulk: Ultimate Destruction-style, and you can...
 
-Jack:
+JACK:
 Well, maybe.
 
-Rich:
+RICH:
 You know, I mean, the whole thing with Superman is just power and control.
 
-Jack:
+JACK:
 Mh-hmm. 
 
-Rich:
+RICH:
 And it seems like in, like, Superman games, for some reason, you can, like, die in three hits. 
 
-Vinny:
+VINNY:
 Right.
 
-Jack:
+JACK:
 You can make it the, the anti-Man of Steel game, where you have ultimate control, you can destroy anything, but if you kill a civilian, you lose the game.
 
-Rich:
+RICH:
 Sure. Sure.
 
-Jack:
+JACK:
 And so you have to figure out a way to, to save the day without killing any innocent civilians. 
 
-Vinny:
+VINNY:
 That would be tough.
 
-Jack:
+JACK:
 Call it anti-Man of Steel.
 
-Rich:
+RICH:
 It's like a formula. All you'd have to do for a good Superman, just make the player feel powerful.
 
-Jack:Sure.
+JACK:
+Sure.
 
-Rich:
+RICH:
 And then you've got what makes Superman interesting in a game. 
 
-Jack:
+JACK:
 But, you know, this is, we're gonna go terribly off-topic here, but I don't care.
 
-Vinny:
+VINNY:
 Please. 
 
-Jack:
+JACK:
 Uh, this is actually my problem with Superman in general -- is why Superman to me is a pretty weak character -- is he's all-, he's all-powerful.
 
-Rich:Well, that's...
+RICH:
+Well, that's...
 
-Jack:Except for, if you have a rock next to him.
+JACK:
+Except for, if you have a rock next to him.
 
-Rich:
+RICH:
 That's fine, but I'm saying the people who are Superman fans, they're fans, they're fans of that, just, invulnerability.
 
-Jack:
-Yeah.
-Rich:
+JACK:
+Yeah.
+
+RICH:
 And just let the player be invulnerable. That's, that's what a Superman game would be. 
 
-Jack:
+JACK:
 Just play Goat Simulator. It's the same thing. 
 
-Rich:
+RICH:
 It's like, it's like, it's like Arkham Asylum. They made a game that let you feel like Batman.
 
-Jack:Yeah.
+JACK:
+Yeah.
 
-Rich:
+RICH:
 Arkham Asylum is good because it's, it's like the quintessential Batman experience.
 
-Jack:
+JACK:
 Mm-hmm. 
 
-Vinny:Right.
+VINNY:
+Right.
 
-Rich:
+RICH:
 They, they, they played up the detectives.
 
-Jack:
+JACK:
 Mm-hmm. 
 
-Rich:
+RICH:
 The villains have great dialogue.
 
-Jack:
+JACK:
 Mm-hmm. 
 
-Rich:,
+RICH:,
 It feels like you're Batman.
 
-Jack:
+JACK:
 Sure, sure.
 
-Vinny:
+VINNY:
 Yeah, it's, it's got stealth elements. I mean, the thing with, uh, Superman, Rich, you bring up a good point, though, it would be difficult to get a Superman game going, because, I mean even the people that make the movies don't really fully understand Superman. You know, Man of Steel, everyone is flying into buildings and people are dying in the thousands. And Superman’s just like “whatever.”
 
-Rich:
+RICH:
 Man of Steel was an excellent Hulk movie.
 
-Jack:
+JACK:
 Nice, Rich.
 
-Rich:
+RICH:
 It’s true!
 
-Jack:
+JACK:
 It’s very true. 
 
-Vinny:
+VINNY:
 It's a good point. 
 
-Jack:
+JACK:
 It's...oh, man, that movie was just a steaming hot mess. 
 
-Vinny:
+VINNY:
 Ugh. Well, to get back on track for video games, let's go straight into E3.
 
-Rich:
+RICH:
 Sure.
 
-Vinny:
+VINNY:
 You guys did a Previously Recorded, uh, video about E3, and you brought up some good points, and, you know, as you mentioned, uh, Rich, you, you are just, the AAA stuff bored you to tears.
 
-Rich:
+RICH:
 A lot of it did, yes.
 
-Vinny:
+VINNY:
 Jack, did you, did you feel the same way? Like, were there any AAA games that both of you guys would agree looked pretty cool?
 
-Jack:It's...
+JACK:
+It's...
 
-Vinny:
+VINNY:
 Not from Nintendo. Let's, let's, let's keep it...yeah. Because Nintendo, I know you guys were pretty cool about Nintendo, and I'm also...
 
-Rich:
+RICH:
 We were cool about it. I still wasn't super hyped about anything I saw.
 
-Jack:
+JACK:
 Sure. It's, it's one of those things where, you know, we recently got a chance to play, um, our next episode is gonna be on Titanfall. And playing a big budget game on a console where everything runs smooth and looks pretty is awesome.
 
-Vinny:
+VINNY:
 Mm-hmm. 
 
-Jack:
+JACK:
 And not having to worry about, you know, like, lowering your pixel density ratio, or configuring mouse controls is really a nice thing. And so, like, uh, oh, what was the, what was the old one where you were hunting a vampire werewolf? What was that one? Is that New Order? 
 
-Rich:
+RICH:
 Uh, something like, oh, The Order.
 
-Jack:
+JACK:
 The Order.
 
-Vinny:
+VINNY:
 Yeah.
 
-Jack:
+JACK:
 The Order looked like fun, like, the, uh, destiny...
 
-Rich:
+RICH:
 But these things all look the same at this point...
 
-Jack:
+JACK:
 They do.
 
-Rich:
+RICH:
 ...is, I think, is the problem.
 
-Jack:
+JACK:
 Mm-hmm. Well, oh, you know what one really pissed me off, and everyone has been, I, I wanna say, is it, is that like The Division? Tom Clancy's The Division.
 
-Rich:
+RICH:
 Yeah.
 
-Vinny:
+VINNY:
 Yeah.
 
-Jack:
+JACK:
 That looks lame as shit.
 
-Rich:
+RICH:
 Technically, it looks pretty nice, because it has next-generation graphics
 
-Vinny:
+VINNY:
 Sure.
 
-Rich:
+RICH:
 And a really interesting, though impractical-looking map.
 
-Vinny:
+VINNY:
 Uh...
 
-Rich:It's, like, when they brought the map up, like a hologram city pops up around you.
+RICH:
+It's, like, when they brought the map up, like a hologram city pops up around you.
 
-Jack:Yeah.
-
-Vinny:Yeah.
-
-Rich:Which looks neat. I'm not sure how convenient they would be using it.
-
-Jack:
-No, I don't...
-
-Rich:
-But...
-
-Jack:It, it looks like every other shooter out there.
-
-Rich:
-Every other game is third-person shooter.
-
-Jack:
+JACK:
 Yeah.
 
-Rich:
+VINNY:
+Yeah.
+
+RICH:
+Which looks neat. I'm not sure how convenient they would be using it.
+
+JACK:
+No, I don't...
+
+RICH:
+But...
+
+JACK:
+It, it looks like every other shooter out there.
+
+RICH:
+Every other game is third-person shooter.
+
+JACK:
+Yeah.
+
+RICH:
 Cover-based and, yeah. 
 
-Jack:
+JACK:
 And so, I'm sure if you are into that genre, you will pick one of these games, and enjoy it a whole lot. But it just offers no, these kinds of games offer no challenge to me. You know? Like, they, they try to shoo-, shoehorn in a story, and I don't give a fuck about the story. I wanna play a game. 
 
-Rich:
+RICH:
 See, it's,t's not even an issue of, like, challenge or anything to me. It's, it's more an issue of, I'm just I'm ready for something different.
 
-Jack:
+JACK:
 Mm-hmm. 
 
-Rich:Give, give me a new angle on a game. I've, I've, I've done third-person shooters. I've, I've done shooters. I've, I've done it to death at this point. 
+RICH:
+Give, give me a new angle on a game. I've, I've, I've done third-person shooters. I've, I've done shooters. I've, I've done it to death at this point. 
 
-Vinny:
+VINNY:
 Same here. Yeah, I mirror the sentiment, Rich. Um, then you have Splatoon, for example, which, uh, you turn into a squid. So, so, Nintendo was like, well, “How do we make this different? I know -- squid!” And then it, it worked. It looked a little bit different. It was a little interesting, compared to what we've seen. It was colorful. And, uh, people were really, um, hyped about Splatoon. I mean, people couldn't shut up about it for a few days. What, what did you think about that as a way to take a genre and kind of, try to twist it a little bit? 
 
-Rich:
+RICH:
 It’s, it's, it's got new ideas. Like, the whole paint, like, area control paint thing. That's, that's clever. And then, you know, swimming in the paint.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:That's taking that clever idea and expanding upon it.
+RICH:
+That's taking that clever idea and expanding upon it.
 
-Jack:
+JACK:
 But even if, like, the, the brilliance of Splatoon, even if you take away the, the cutesy art style -- let's, let's say it's just, like, a generic, like, everything is a brown shooter, right?
 
-Vinny:Yeah.
+VINNY:
+Yeah.
 
-Jack:
+JACK:
 There is still a new mechanic of, if you put your weapon away, you can move faster. And then you need to decide whether you want to move faster or shoot someone, right?
 
-Vinny:
+VINNY:
 Which is not something you see in online multiplayer shooters. So, it's like a new...even though it's wrapped in this really cutesy art style, and you're using ink instead of bullets, there is a new idea in there that could make for an interesting challenge. And so, even if, even if you wanna make a space marine shootout, where you put your gun away and you can run faster, it's something fucking different. I hope you don't, I didn't ask you if I could cuss...
 
-Vinny:
+VINNY:
 Oh, of course.
 
-Jack:
+JACK:
 ...before we started.
 
-Rich:
+RICH:
 Oh, thank fucking Christ. I was holding it in.
 
-Vinny:
+VINNY:
 Cunts and cocks everywhere. Don't worry about it. 
 
-Jack:
+JACK:
 Jesus shit Christ.
 
-Vinny:
+VINNY:
 There you go. No, we're okay here with that, so...
 
-Jack:Okay, good.
+JACK:
+Okay, good.
 
-Vinny:
+VINNY:
 Yeah, no worries. Um, but yeah, I agree. Splatoon looked interesting, and it was, it was something a little bit different on the formula that we're so used to seeing. Um, you know, you guys did mention some other games that interested you, um, in the video, but let's, let's go over them again for a second. Um, so, for example, No Man’s Sky, Rich, I know you're excited about that. I'm excited about that, too. I don't have a PS4, so I, I probably won't get a chance to play it, but...
 
-Jack:
+JACK:
 It is not a PS4-exclusive. 
 
-Vinny:
+VINNY:
 It’s not?
 
-Rich:
+RICH:
 It's coming PC, supposedly, right? You, I don't know where you heard that, but...
 
-Jack:
+JACK:
 The, according to the, the developer's site, they're, they're not saying what other system it's coming to, but it is not a PS4 exclusive. So we can only assume it's coming to PC. 
 
-Rich:
+RICH:
 Okay. Okay.
 
-Vinny:
+VINNY:
 That's good news for me. 
 
-Jack:
+JACK:
 Same with Grim Fandango. Not a PS4 exclusive.
 
-Vinny:
+VINNY:
 Right. 
 
-Rich:
+RICH:
 Okay, okay. Time though, maybe? I don’t know.
 
-Jack:Mmyeh.
+JACK:
+Mmyeh.
 
-Rich:
+RICH:
 But, yeah, No Man’s Sky, I mean, I don't know if they can pull it off. If you, if they're gonna have enough variety in, in planets and whatnot, but...yeah, that just looked fun. Unlike a lot of games at E3, that, that actually looked fun.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
+VINNY:
 Right. It was colorful. It had a different angle. The technology looked interesting. And, uh, it was something that, it's the purple elephant, for example. You know, you know what that means?
 
-Rich:
-No.
-Jack:
+RICH:
+No.
+
+JACK:
 No, I've never heard that before.
 
 Richv
 I thought you were just referring to the weird animals in the game. 
 
-Vinny:
-There might be. There might be a purple elephant. No, it's a purple elephant is, I guess it's a graphic design, like, term where, you know you see a bunch of graphics. You're like, "Uh, pass, pass, pass." And then you see the purple elephant, and you're like, "Oh."
-Rich:
+VINNY:
+There might be. There might be a purple elephant. No, it's a purple elephant is, I guess it's a graphic design, like, term where, you know you see a bunch of graphics. You're like, "Uh, pass, pass, pass." And then you see the purple elephant, and you're like, "Oh."
+
+RICH:
 Huh.
 
-Vinny:"This is interesting." Yeah, I, I think, I think I got it right. Purple Elephant...
+VINNY:
+"This is interesting." Yeah, I, I think, I think I got it right. Purple Elephant...
 
-Rich:
+RICH:
 I have not heard that. 
 
-Vinny:
+VINNY:
 Yeah. So, for me that stood out. I mean, when I watched the, uh, Sony and Microsoft conferences, I thought, "Okay, all right, these look all right." But, yeah, I'm done with shooters. And I'm done with shooting people in the face simulators for now. I got plenty of them on Steam, so, I'm, I'm good with that. But then I saw No Man’s Sky. I was like, "Okay, this looks good." Sunset Over Drive looked pretty interesting. Um...
 
-Rich:
+RICH:
 It looked colorful. It looks like it has style. The game itself looks, you know, okay...at best? I don't, I don't know. But, yeah, it's nice to see something with a sense of humor. 
 
-Jack:
+JACK:
 Mm-hmm. Yeah, like, for, for No Man's Sky, for me, I'm really interested to know what you do in the game? You know, like...
 
-Rich:
+RICH:
 Like, what your objective is.
 
-Jack:
+JACK:
 Do you have to hunt the animals? Is there a, I, I don't know what the point of the game is. All I know is it looks really cool. And if you actually have the ability to get in your spaceship, fly into a space battle, go to another planet, hang out with some animals, get back in your ship, and fly into another space battle without any loading screens...is gonna be brilliant, right? 
 
-Vinny:
+VINNY:
 Yeah.
 
-Rich:
-Yeah, yeah. At the very least, it will entertain me for ten hours.
-Jack:Sure.
+RICH:
+Yeah, yeah. At the very least, it will entertain me for ten hours.
 
-Rich:
+JACK:
+Sure.
+
+RICH:
 At the very least.
 
-Vinny:
+VINNY:
 Right. And, and yet, then we'll go back to FTL and put another 50 hours into that. It's, it's, it's bizarre. I just upgraded my computer, and, and I find myself playing fucking Spelunky and FTL. And it's, like, what, what was the point? Um...
 
-Rich:
+RICH:
 I got FTL off of GOG, so I have no idea how many hours I've sunk into it. 
 
-Jack:
+JACK:
 Oh, my gosh.
 
-Vinny:
+VINNY:
 Yeah, a ton.
 
-Rich:
+RICH:
 Probably a lot. I know t's a ton. I've got like everything unlocked. 
 
-Jack:
+JACK:
 Sure. It's probably way more than me. I, I have to, like, but then, oh, and, you know, you bring up Spelunky. That was one of my favorites. I got Spelunky on my Vita. And, you know, these kinds of games, the, the challenge, it takes over your life, where that's all you start thinking about.
 
-Vinny:
+VINNY:
 Mm-hmm.
 
-Jack:And you go to the wikis, and like, "Oh, maybe if I can do this." And you watch, and you start watching Let's Plays. "Oh, well, this guy did this. I could do this now!" And, you know, maybe it's just, like, the, the further factioning of the gamer -- of the gamers -- where it's, like, we, we just kind of choose our path, and that's all we're going to pay attention to. But you know, like, I will take a Spelunky over any AAA bland shooter, just because it's a challenge. 
+JACK:
+And you go to the wikis, and like, "Oh, maybe if I can do this." And you watch, and you start watching Let's Plays. "Oh, well, this guy did this. I could do this now!" And, you know, maybe it's just, like, the, the further factioning of the gamer -- of the gamers -- where it's, like, we, we just kind of choose our path, and that's all we're going to pay attention to. But you know, like, I will take a Spelunky over any AAA bland shooter, just because it's a challenge. 
 
-Vinny:
+VINNY:
 Sure.
 
-Jack:It's a game.
+JACK:
+It's a game.
 
-Vinny:
+VINNY:
 I totally agree. 
 
-Rich:
+RICH:
 Budget alone is not a guarantee of a good game. 
 
-Vinny:
+VINNY:
 Agreed. And sometimes, you know, too many cooks. Um, just the anecdotes such as flying today. Jesus. But too many cooks in a kitchen, you know, you spend so much money on a game, and you just end up with this blob mishmosh of everyone’s ideas on what will sell the best product. Like, everyone's high on Destiny.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Vinny:
+VINNY:
 Gotta be honest, it's just Borderlands with realistic graphics and some good technology behind it. And it's, it's not doing anything for me. 
 
-Rich:
+RICH:
 I've, I’ve, I've gotta ask, because the only reason anybody is hyped about Destiny is the fact that Bungie is involved. Is that it? 
 
-Vinny:
+VINNY:
 It seems like it. Or maybe the chat will have a different perspective. And also, too, you know, it's currently the most expensive game, like, ever made. Like, even beyond GTA. I believe it's, I think they said it was something, like, half a billion dollars to make Destiny. 
 
-Rich:
+RICH:
 No kidding.
 
-Jack:
+JACK:
 Oh, man. I hope it tanks.
 
-Vinny:
+VINNY:
 Don’t quote me on that.
 
-Rich:You hope it tanks? 
+RICH:
+You hope it tanks? 
 
-Jack:
+JACK:
 I do. I hope it t-, there, there's a, I think it's a horrible thing to say.
 
-Vinny:That's beautifu.
+VINNY:
+That's beautifu.
 
-Jack:
+JACK:
 But there's a thing in movies. There, there's a, there's a graph in movies with, like, movie budgets over time, and it's a wave, you know, and certain, at a certain point, movie budgets hit an all-time high, and, you know, you get like three-and-a-half hour epic masterpieces of movies, and then everyone says, "Fuck this, I want more small movies." I think the wave comes back down, so I think we're at that point in gaming, where we need to come back down. If a game is half a billion dollars.
 
-Vinny:
+VINNY:
 Very, very good point.
 
-Rich:
-If, if, if you get a few games that cost a half a billion to make that tank, what, does everything just become indie games at that point?
-Jack:
+RICH:
+If, if, if you get a few games that cost a half a billion to make that tank, what, does everything just become indie games at that point?
+
+JACK:
 Well, yeah...
 
-Rich:
+RICH:
 Is that what happens? 
 
-Jack:
+JACK:
 Then it goes down, and we get, and we get some decently mid-range games for a while. Then everything goes indie, and then it starts coming back up. And then we get the, the ebb and flow of it.
 
-Rich:
+RICH:
 Okay. Okay.
 
-Vinny:
+VINNY:
 Interesting. That's a good perspective, Jack. I, I don’t know really what's gonna happen, you know, but I can tell you that a lot of the audience here on Vinesauce isn't too keen about a lot of these games that, that are, they're trying to shove down our throats. You know, some of us are, and I might even get The Division, for example, just to see what it's about. And I'm from New York, so I wanna see what's going on, how well they modeled it. 
 
-Jack:
+JACK:
 Oh, sure. Sure, sure.
 
-Vinny:
+VINNY:
 You know, go to Hook and Ladder. 
 
-Rich:
+RICH:
 They've never made a Chicago game yet. I keep waiting. 
 
-Vinny:
+VINNY:
 They have, Rich.
 
-Rich:Wh-, wh-, wh-, what?
+RICH:
+Wh-, wh-, wh-, what?
 
-Vinny:
+VINNY:
 Watch Dogs. 
 
-Rich:
+RICH:
 Really?
 
-Vinny:
+VINNY:
 Yeah, it's Chicago. It's a small Chicago, but, the, The Bean is there. And you got the fucking Navy Pier that you can't go inside, and it's just, like, a miniature Navy Pier that's garbage. And the rest of the game is just boring as fuck. I got it free with my graphic card. Seriously, I, I got the game for free with my graphics card, and I put four hours into it.
 
-Jack:
+JACK:
 Oh.
 
-Vinny:
+VINNY:
 And two were solving technical issues on my brand new graphics card, and then the other two were just me exploring and getting bored. And, and that's a shame. But I love Chicago. It's a beautiful city, and they, they underutilize it. Doesn't feel real. 
 
-Jack:
+JACK:
 I, I remember that, like, the hype for Watch Dogs was so real. And I remember, like, everyone was talking about Watch Dogs until the hour that it came out. And then everybody stopped.
 
-Vinny:Yep.
+VINNY:
+Yep.
 
-Jack:
+JACK:
 Because, because, yeah, everyone got real bored, real fast. 
 
-Rich:
+RICH:
 See, I, I have to admit here, I've seen, like, the, the, the ads on Steam for it.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Rich:
+RICH:
 But I know jack shit about Watch Dogs. I don't know anything. 
 
-Vinny:
+VINNY:
 It's GTA, where you can hack people and see if they're pedophiles or not. 
 
-Rich:
+RICH:
 Oh, it just sounds creepy. 
 
-Vinny:
+VINNY:
 It's weird. But it's not bad. I mean, it's, it's, it's all right. It's competent.
 
-Jack:Yeah.
+JACK:
+Yeah.
 
-Vinny:
+VINNY:
 It's glitchy.
 
-Jack:
+JACK:
 It's supposed to be like a, like a techy
 
-Jack:
+JACK:
 Yeah, it's supposedly like a like a techie justice-porn kind of thing, where, you know, like, you find the bad guys, and you take them out. 
 
-Rich:
+RICH:
 Okay.
 
-Vinny:
+VINNY:
 Yeah.
 
-Jack:
+JACK:
 But it's, yeah, it's just slow and dull. 
 
-Vinny:
+VINNY:
 I would say, if you don't know what it is, Rich, pass.
 
-Rich:Okay.
-
-Vinny:
-Just, at this point, just pass. But if you really wanna see a modeled Chicago in an open world game, maybe check it out somehow. But, you know, you'll probably not really feel like it wasn't, it's not the best game. But it's okay. It's all right.
-
-Rich:
-You what, I'll, I'll, I'll pick it up on sale here. How's that?
-
-Vinny:
-Yeah, wait for the, wait for a sale.
-
-Rich:
-I’ll wait until it’s two dollars.
-
-Vinny:
-Right. And then you can drive around fake Chicago and see that The Bean is no longer reflective. Instead, it's just fluorescent. It's bizarre. Anyway, um, so any other things from E3 that excited you guys? Anything at all, just to finish the E3 chip.
-
-Rich:
-Grim Fandango.
-
-Vinny:Grim, yeah?Rich:
-That was the one time I think I actually cheered while watching all of that. Grim Fandango.
-
-Vinny:
+RICH:
 Okay.
 
-Rich:
+VINNY:
+Just, at this point, just pass. But if you really wanna see a modeled Chicago in an open world game, maybe check it out somehow. But, you know, you'll probably not really feel like it wasn't, it's not the best game. But it's okay. It's all right.
+
+RICH:
+You what, I'll, I'll, I'll pick it up on sale here. How's that?
+
+VINNY:
+Yeah, wait for the, wait for a sale.
+
+RICH:
+I’ll wait until it’s two dollars.
+
+VINNY:
+Right. And then you can drive around fake Chicago and see that The Bean is no longer reflective. Instead, it's just fluorescent. It's bizarre. Anyway, um, so any other things from E3 that excited you guys? Anything at all, just to finish the E3 chip.
+
+RICH:
+Grim Fandango.
+
+VINNY:
+Grim, yeah?
+RICH:
+That was the one time I think I actually cheered while watching all of that. Grim Fandango.
+
+VINNY:
+Okay.
+
+RICH:
 Uh, a classic, classic LucasArts adventure game. Was made by Tim Schafer of Psychonauts and Brutal Legend fame.
 
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:Uh, it's an adventure game that came out right after the adventure game genre, like, died. So nobody played this game. And I, I just think it's a beautiful little game. Uh, it's got a wonderful creative world. It's got interesting characters. And nobody has played it...
+RICH:
+Uh, it's an adventure game that came out right after the adventure game genre, like, died. So nobody played this game. And I, I just think it's a beautiful little game. Uh, it's got a wonderful creative world. It's got interesting characters. And nobody has played it...
 
-Vinny:
+VINNY:
 Good music.
 
-Rich:
+RICH:
 ...and it barely runs on a modern-day system. You have to, like, jump through hoops to play Grim Fandango now. And I'm, I'm just, ehh, we kind of cut this out on our E3 discussion.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Rich:
+RICH:
 We talked a little bit about remakes and how I feel about remakes.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Vinny:Mm-hmm.
+VINNY:
+Mm-hmm.
 
-Rich:
+RICH:
 I actually don't mind game, game remakes. I, I see it as like a form of game preservation. 
 
-Vinny:
+VINNY:
 Sure.
 
-Rich:
-And I, I think it's a good thing when a game like Grim Fandango gets kind of, like, preserved for modern-day future generations.
-Jack:
+RICH:
+And I, I think it's a good thing when a game like Grim Fandango gets kind of, like, preserved for modern-day future generations.
+
+JACK:
 Sure.
 
-Rich:
+RICH:
 Like, I know it looked like I was mocking Halo 2 for the remake.
 
-Jack:
+JACK:
 Yeah.
-Rich:
+
+RICH:
 I don't. I don't care that they're remaking it. I think it's great for Halo fans.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Rich:
+RICH:
 It's just, I thought it was funny how one of the centerpiece discussions for Xbox during E3 was old ideas. 
 
-Jack:
+JACK:
 Not just old ideas. Old ideas not touched. "We won't touch them. Swear to God."
 
-Rich:
-Yeah, yeah, but the fact that they’re remaking it alone that, that doesn't offend me at all.
-Jack:Right.
+RICH:
+Yeah, yeah, but the fact that they’re remaking it alone that, that doesn't offend me at all.
 
-Rich:
+JACK:
+Right.
+
+RICH:
 It's, you know, it's fine. It's, it's great for fans of the game. 
 
-Jack:
+JACK:
 Sure.
 
-Rich:
+RICH:
 There's a whole lot of games I'd love to be, see, uh, be remade. You know, Jedi Knights. 
 
-Vinny:
+VINNY:
 Oh, yeah.
 
-Rich:
+RICH:
 Some of the, some of the early Sierra Quest games.
 
-Vinny:Mm-hmm.
+VINNY:
+Mm-hmm.
 
-Rich:Wouldn’t mind seeing those again. 
+RICH:
+Wouldn’t mind seeing those again. 
 
-Vinny:
+VINNY:
 Um, you know, Nintendo is usually the ones that bring out the remakes. They brought out the Pokémon remake. Um, but, you know...
 
-Jack:I think they're calling the--
+JACK:
+I think they're calling the--
 
-Vinny:
+VINNY:
 ...everyone was flipping their shit about that. And for me, I mean, you know, everyone was looking forward to the Majora's Mask remake on the 3DS, and that, that was never announced.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Vinny:
-So, people were, like, "Huh? We thought that was gonna happen." It didn't happen. I'm okay with remakes, too, if it's done well. I mean, sometimes there's a little extra content in 'em. I'm okay with that.
-Rich:Mm-hmm.
+VINNY:
+So, people were, like, "Huh? We thought that was gonna happen." It didn't happen. I'm okay with remakes, too, if it's done well. I mean, sometimes there's a little extra content in 'em. I'm okay with that.
 
-Vinny:
+RICH:
+Mm-hmm.
+
+VINNY:
 It just depends, really. It depends on the game. Depends on the developer. 
 
-Rich:
+RICH:
 Uh, hold on one second here, I think we gotta car alarm going off in our parking lot here.
 
-Vinny:
+VINNY:
 Uh-oh.
 
-Rich:That's the...
+RICH:
+That's the...
 
-Vinny:
+VINNY:
 It’s that that hack fraud, Mike. I dunno. We're gonna see somebody into the front of the building here.
 
-Vinny:
+VINNY:
 Oh, Jesus.
 
-Rich:
+RICH:
 Give us, give us one minute. 
 
-Vinny:
+VINNY:
 Take your time.
 
-Rich:
+RICH:
 Okay, okay.
 
-Vinny:
+VINNY:
 Jack, is you still on the line? Okay, so I'll just, I'll just talk to the stream while I'm doing that. Um, I guess, hopefully nothing went wrong with them. But while that's going on, um, on the topic of remakes...
 
-Rich:
+RICH:
 All right.
 
-Jack:
+JACK:
 All right, this, our side of the audio is gonna get real fun if you can hear that beeping in the background.
 
-Rich:
+RICH:
 Can you, can you hear that? It's loud here, but...
 
-Vinny:Not at all.
+VINNY:
+Not at all.
 
-Rich:Okay, let's keep going then.
+RICH:
+Okay, let's keep going then.
 
-Vinny:
+VINNY:
 Um, everything is good, then?
 
-Rich:
+RICH:
 Yeah, yeah.
 
-Jack:
+JACK:
 Yup.
 
-Jack:
+JACK:
 Everything is good. So, what were we talking about? 
 
-Rich:
+RICH:
 We were talking about remakes, Majora's Mask remake. You know...
 
-Vinny:
+VINNY:
 Yeah, I mean, it mean, it depends. 
 
-Jack:
+JACK:
 I've never, I've never, I've never beaten Majora's Mask. 
 
-Rich:
+RICH:
 Yeah. 
 
-Jack:
+JACK:
 And I think, I think I was just a little too young when it came out to get its brilliance. I know it's, it is considered to be a great game now, but it flopped when it came out.
 
-Rich:
+RICH:
 Um...
-Jack:
+
+JACK:
 So, I'd be interested in playing it just to see if I could do it. 
 
-Rich:
+RICH:
 I'm, I'm going to admit to being superficial here.
 
-Jack:Uh-huh.
+JACK:
+Uh-huh.
 
-Vinny:
+VINNY:
 Mm-hmm.
 
-Rich:
+RICH:
 I think the Nintendo 64 is one of the ugliest fucking consoles they've ever made. And it's the place to go if you want blurry, blocky shit. And I always...
 
-Vinny:
+VINNY:
 And foggy.
 
-Rich:
+RICH:
 Yeah, I always thought that young Link was, like, the ugliest character model I've ever seen on a main character. So that, that is the only reason I've never played Majora's Mask. And I feel bad because people say this game is great, and it's a really superficial reason not to have tried it.
 
-Jack:
+JACK:
 We just got an N64. We'll do it on the stream.
 
-Rich:Oh, oh.
+RICH:
+Oh, oh.
 
-Vinny:
+VINNY:
 It'll take a while. You guys might, um, have some issues with it early on. It takes a little while to pick up.
 
-Jack:Mm-hmm.
-
-Vinny:
-But, um, no, I kind of agree with you with the N64. It's tough for me to replay N64 games, which was, um, the Mario Kart game that just came out, they, they did for N64 levels.
-Rich:Mm-hm.
-
-Vinny:
-They upgraded them, made them look nice, so I was happy about that. That's the kind of stuff I like to see remade, you know.
-
-Rich:
-Yeah.
-
-Vinny:I don't, I don't necessarily need to revisit Halo 2, or anything like that. You know, I'm sure some people love it, but, um, you know, if, if you can preserve some cool stuff like that, and then I'm, I'm okay with it. But, um, again, like I said, it depends on the game. 
-
-Jack:Yeah.
-
-Rich:
+JACK:
 Mm-hmm.
 
-Vinny:
-So, I'm gonna change gears a little bit here.
-Rich:Yeah.
+VINNY:
+But, um, no, I kind of agree with you with the N64. It's tough for me to replay N64 games, which was, um, the Mario Kart game that just came out, they, they did for N64 levels.
 
-Vinny:
-I'm gonna switch gears. I'm gonna, I'm gonna ask you, uh, Jack...
+RICH:
+Mm-hm.
 
-Jack:
+VINNY:
+They upgraded them, made them look nice, so I was happy about that. That's the kind of stuff I like to see remade, you know.
+
+RICH:
 Yeah.
 
-Vinny:
+VINNY:
+I don't, I don't necessarily need to revisit Halo 2, or anything like that. You know, I'm sure some people love it, but, um, you know, if, if you can preserve some cool stuff like that, and then I'm, I'm okay with it. But, um, again, like I said, it depends on the game. 
+
+JACK:
+Yeah.
+
+RICH:
+Mm-hmm.
+
+VINNY:
+So, I'm gonna change gears a little bit here.
+
+RICH:
+Yeah.
+
+VINNY:
+I'm gonna switch gears. I'm gonna, I'm gonna ask you, uh, Jack...
+
+JACK:
+Yeah.
+
+VINNY:
 Why did you break the wheel? Which gives your life. Why, why did you, why did you smack the Wheel of the Worst? 
 
-Rich:
+RICH:
 You knocked the wheel over, Jack. Do you remember? He's, he's looking up in the air like he doesn't remember.
 
-Jack:
+JACK:
 I didn't, I didn't remember.
 
-Rich:Like a kid pretending he didn't break the cookie jar. 
+RICH:
+Like a kid pretending he didn't break the cookie jar. 
 
-Jack:
+JACK:
 Okay, we're gonna get a little real talk over here.
 
-Vinny:
+VINNY:
 Real talk.
 
 Jack
 Real talk on the wheel talk.
 
-Vinny:Yeah.
+VINNY:
+Yeah.
 
-Jack:
+JACK:
 Jack does not like the Wheel of the Worst. I...
 
-Vinny:
+VINNY:
 Oh, my god.
 
-Jack:
+JACK:
 I, I, I think it's the dumbest idea in the world. And I love Best of the Worst. I love watching old bad movies, and making fun of them because, like, I get it, you know, I understand the structure of what a movie is supposed to be. And so it's, it, the jokes come, but the Wheel of the Worst, when we watch just this dumb shit, they had me, the first Wheel of the Worst I was on, we did, the Key Matters, the latchkey kid video.
 
-Rich:Yeah.
+RICH:
+Yeah.
 
-Vinny:Mm-hmm.
+VINNY:
+Mm-hmm.
 
-Jack:
+JACK:
 And we did some other bullshit that I forget. And I honestly had the worst time ever. And so, I just didn't come back for any other wheel episodes, because I thought they were dumb. And here, we needed to get this episode shot, and I was the only one available. 
 
-Vinny:
+VINNY:
 Oh, my God.
 
-Jack:
+JACK:
 And so, I was like, "Okay, Jack, just come." And I would, and it was after we watched um, what did we watch first?
 
-Rich:
+RICH:
 That, uh, Cleared for Takeoff?
 
-Vinny:
+VINNY:
 Airplane...
 
-Jack:
+JACK:
 Yeah, it was after we watched Cleared for Takeoff, which sucked my ability to live from my body. And so, you know, it was just, I wanted, I was really hoping I broke the wheel, so we wouldn't have to watch it anymore. 
 
-Rich:
-Really, Jack, the wheel. I mean, the theme is appropriate. It's all about the gamble.
-Jack:Yeah.
+RICH:
+Really, Jack, the wheel. I mean, the theme is appropriate. It's all about the gamble.
 
-Rich:
+JACK:
+Yeah.
+
+RICH:
 It's all about gambling, and, you know, you get some, you get some whammies on the wheel, like Cleared for Takeoff, but every now and then, you, you hit a jackpot like SOS...
 
-Jack:Oh, my god.
+JACK:
+Oh, my god.
 
-Rich:...or Tales from Genesis Space. 
+RICH:
+...or Tales from Genesis Space. 
 
-Jack:
+JACK:
 Well, that's the thing. This, the, that last episode taught me to respect the wheel, because we got to see Tales from Genesis space, and we got to see SOS.
 
-Vinny:Mm-hmm.
+VINNY:
+Mm-hmm.
 
-Jack:
+JACK:
 Which was, I mean, you saw it. It's brilliant.
 
-Vinny:
+VINNY:
 Oh, yeah.
 
-Jack:
+JACK:
 SOS is amazing. So now I know. Now I know to respect the wheel. 
 
-Vinny:
+VINNY:
 Now, you know. But you know, I'm really, I'm, I'm proud of you, that you tried. And it's, it's preserved. It's preserved. It's on film. 
 
-Jack:
+JACK:
 We, we, we brought out a bunch of hot glue, and we put the wheel back together in all of its glory. It is still functioning, so I did not do a good job of breaking it, but, man...
 
-Rich:
+RICH:
 It's, it's barely functioning.
 
-Jack:
+JACK:
 It was barely functioning to begin with. 
 
-Rich:
+RICH:
 The thing with the wheel is, I, I, I designed it specifically to look like a piece of shit.
 
-Vinny:
+VINNY:
 Oh, you made it? 
 
-Rich:
+RICH:
 Yeah.
 
-Jack:
+JACK:
 Yeah, Rich built it.
 
-Rich:
+RICH:
 It looks lopsided, and the problem with that, though, is all kinds of balance issues with the wheel. We gotta be careful about, like, tapes go on what sides, so we get a fair spin out of it. 
 
-Jack:Mm-hmm, yeah.
+JACK:
+Mm-hmm, yeah.
 
-Vinny:
+VINNY:
 Sure. 
 
-Jack:
+JACK:
 Oh, it's just...
 
-Vinny:
+VINNY:
 Well...
 
-Jack:
+JACK:
 ...just, those are tough. Those are, Wheel of the Worst episodes are, they're tough to be funny on, you know. 
 
-Vinny:
+VINNY:
 Yeah, I could see the airplane one was tough. Mike was, was stretching a bit. He was, like, "Well, there's two ways you could make this, and they didn't do either."
 
-Rich:
+RICH:
 No.
 
-Rich:
+RICH:
 He never...
 
-Vinny:
+VINNY:
 It was brilliant.
 
-Rich:
+RICH:
 I think, I think my plane crashed.
 
-Vinny:
+VINNY:
 Right? 
 
-Rich:
+RICH:
 Uh, I, I will never be able to recreate a moment like that ever again. I don't know where that came from.
 
-Jack:
+JACK:
 It was so beautiful. That was so beautiful, Rich. 
 
-Rich:
+RICH:
 It was, it was, I didn't know Mike was gonna shove the phone at me. So that, that just all magically came out of my mouth.
 
-Jack:
+JACK:
 It was, I mean, I think there was an edit, but there was no time. Like, literally, Mike called. We found out it was, it was Ted Levine, and he handed the phone to Rich. There was, there was no, there was no extra space to think of a bit there. Rich did that off the top of his head, and it was perfect! Oh. my God. That was so funny. 
 
-Vinny:Yeah.
+VINNY:
+Yeah.
 
-Rich:
+RICH:
 Do that, do that again, and it'll just be a letdown. 
 
-Vinny:
+VINNY:
 And that's what's, but that's what's great about you guys filming this stuff because, you know, you're able to get this stuff...if it's a good moment, you have it. You don't have to recreate it. It's there. And it was great. That was a good episode. 
 
-Rich:
+RICH:
 That's, that's why we've only, like, done movies that we've never seen before.
 
-Vinny:Sure.
+VINNY:
+Sure.
 
-Rich:
+RICH:
 Because you never, you never know what, what's gonna happen. 
 
-Jack:Yeah.
+JACK:
+Yeah.
 
-Vinny:
+VINNY:
 Sure. Rich, I have to, uh, I have to talk about your laugh for a second.
 
-Rich:Sure.
+RICH:
+Sure.
 
-Vinny:
+VINNY:
 And the reason I wanna talk about your laugh is because, um, one of my videos, uh, made it to a website recently. And, well, uh, I want to read this to you.
 
-Rich:Okay.
+RICH:
+Okay.
 
-Vinny:Uh, someone said that I had the most annoying laugh in the universe.
+VINNY:
+Uh, someone said that I had the most annoying laugh in the universe.
 
-Rich:Uh-huh. Uh-huh.
+RICH:
+Uh-huh. Uh-huh.
 
-Vinny:And, um, then another person said, "His laugh is glorious, it's just behind Rich Evans in terms of annoying." So, for me, that was a very interesting moment, um, you know, it's, it's, it's, it's banshee-like. It's, it's, it's a whale, almost.
+VINNY:
+And, um, then another person said, "His laugh is glorious, it's just behind Rich Evans in terms of annoying." So, for me, that was a very interesting moment, um, you know, it's, it's, it's, it's banshee-like. It's, it's, it's a whale, almost.
 
-Rich:Uh-huh.
+RICH:
+Uh-huh.
 
-Vinny:
+VINNY:
 My laugh. But, my question is, you know, you have this laugh. Some people love it, some people hate it.
 
-Rich:Yeah.
+RICH:
+Yeah.
 
-Vinny:Very similar to Ricky Gervais. And, I mean, you mentioned while you were streaming one day that you can't, like, if you try to laugh, you won't be able to recreate it.
+VINNY:
+Very similar to Ricky Gervais. And, I mean, you mentioned while you were streaming one day that you can't, like, if you try to laugh, you won't be able to recreate it.
 
-Rich:
+RICH:
 I've, I, I did try, because I know, I don't know if you've seen it, Mike did like that, uh, United States of No-o-o-o!!! documentary, he was talking about the end of revenge of the Sith. The story is, that, uh, when Revenge of the Sith was playing in theaters...
 
-Vinny:Uh-huh.
+VINNY:
+Uh-huh.
 
-Rich:
+RICH:
 Uh, Mike and Jay actually kind of dragged me kicking and screaming to see it. I was, I was done with Star Wars then.
 
-Vinny:
+VINNY:
 Uh-huh.
 
-Jack:Mm-hmm.
+JACK:
+Mm-hmm.
 
-Rich:
+RICH:
 But we saw in the theater.
 
-Jack:Mm-hmm.
-
-Rich:And the end of the movie comes up, and, and when Darth Vader rips out of the chair like Frankenstein, and says, "No," I started laughing hysterically in a crowded theater of people.
-
-Jack:Mm-hmm.
-
-Rich:And I, Ik kept laughing until the credits rolled. I could not stop laughing. And, and Mike wanted to get me laughing on camera, just so we could show people what it was like in the theater.
-
-Vinny:Uh-huh.
-
-Rich:
-And I could not do it.
-
-Jack:Mm-hmm.
-
-Rich:
-I can't recreate that laugh. That is my natural laugh.
-
-Jack:Mm-hmm.
-
-Rich:
-And I, I just go, go all in with my laughter. 
-
-Jack:Mm-hmm.
-
-Vinny:
-I respect that. I think, uh, most of, most of us respect that here on this site because they have to deal with it every day. So, I, I, you know, my shitty laugh. So, you know what, I say, go for it. And, and you're okay with it. You go all in. You don't give a shit, right? 
-
-Jack:
-Yeah. No, no, no.
-
-Vinny:Good.
-
-Jack:
-Rich is a jovial person, and if he feels like laughing, who, who are you to tell him not to laugh? You fucking prick! You leave Rich Evans alone.
-
-Vinny:
-Jesus, um, all right, well, let me, let me also, while I'm on the topic of, um, of your laugh, Rich, I wanted to mention, you know, Plinkett. You know, you, you've...
-
-Rich:Yeah.
-
-Vinny:
-...played this character for years, and, um, I mean, this, this gets into the history of, of RedLetterMedia, and the whole thing. I mean, let's take a nosedive straight into it for a few minutes.Rich:Sure.
-
-Vinny:
-Um, so how do you guys, uh, know each other. And Jack, also, how did you link up with these guys as well? How did, how did this, this partnership of RedLetterMedia begin? 
-
-Jack: Sure, I'll let Rich start.
-
-Rich:
-\We all kind of met at different times. I, I met Mike in high school.
-
-Vinny:
-Mm -hmm.
-
-Rich:
-And I just kind of like, you know, after school, we'd, we'd hang out at his parents’ house. And he had a camera, and we’d just make stupid videos in our free time.
-
-Vinny:Mm-hmm.
-
-Rich:
-That was, that was our hobby. And then, uh, later on, there was this, this website called REwind Video, and, uh, a bunch of different like amateur filmmakers that made movies would congregate there. And the only person who hung out there with any talent was Jay Bauman.
-Vinny:Mm-hmm.
-
-Rich:And that's how me and Mike met Jay. And then we'd started making stuff together. And then, uh, Jack, I'm, I'm actually not entirely sure how you came into the picture, because you, you came into things up here in Milwaukee when I was still living in Chicago.
-
-Jack:
-That’s right. I just, I magically appeared in the ether.
-
-Rich:
-You magically appeared, as far as I’m concerned. 
-
-Jack:
-That's true. Yeah, no. And, you know, I don't know how, how did I meet Mike and Jay? You know, just friends of friends. We're both internet filmmakers and so we just met because that's what happens. You naturally go towards the things that you like, right? And, uh, they needed actors. And I'm a terrible actor. But, I, you know, I'm okay with, with anything, and so they just said, "We need an actor," and I said, "I'm a terrible actor," and they said, "Eh, whatever, you'll show up, so we'll have you." And so I started acting in their stuff. And, and, then, yeah, we just, you know, they helped me out my shoots, I helped them on their shoots, and that's how we got started. Kind of a boring -- I think the first thing I did was The Grabowski's.
-
-Vinny:Okay.
-
-Jack:
-I was Frank Hammer.
-
-Vinny:That's, that's early.
-
-Jack:
-Frank Hammer in the Grabowski's, and, uh, and then I was in, Jay then had me come back for Pork Pork in Space, which, which I loved. I loved my character in Pork Pork. And whenever they have me act in anything, it's like, "Okay, I want to be a good actor. I wanna be prepared. Where's the script? So I can, you know, learn my lines." And they go, “Script? Uh, this is what you say," and they just tell me my lines right before they start shooting. Bunch of hacks...
-
-Rich:
-You say that, but, I, I recall you having me to come up to Milwaukee, so you could film Poopagain PI with me. 
-
-Jack:
-Uh-huh, uh-huh. And...? And I gave you a script.
-
-Rich:
-You, you wrote a script for something called Poopagain PI.
-
-Jack:Uh-huh.
-Rich:
-I just wanna point that out.
-
-Jack:
-About the detective that poops in his pants. Yeah, and...?
-
-Rich:Okay.
-
-Vinny:
-My, god. That's brilliant!
-
-Jack:
-That was, like, I had met Rich a few times before then. And, you know, obviously enjoyed Rich a lot. And I needed this, I needed a good actor for the character of, like, the grizzled old chief of police.
-
-Rich:
-And the first person you think of -- with a grizzled old police chief -- is Rich Evans.
-
-Vinny:
-Is Rich Evans.
-
-Jack:
-Is Rich Evans, absolutely.
-
-Vinny:Uh-huh.
-
-Jack:
-And I didn't even know you were in Chicago at the time. 
-
-Rich:
-No.
-
-Jack:
-Because we had not interacted with each other a lot, and so I was like, I was like, “Oh, Mike, can, you know, can, can we get Rich in, you know, have him come and do Poopagain?” And Mike's like, "Sure, whatever.” And you just you came up from Chicago to act in Poopagain. 
-
-Vinny:
-Wow.
-
-Jack:
-That's good people. That's good people.
-
-Rich:
-I'm, I'm a good guy. I was, I was flattered that somebody would actually want me to act in their project.
-
-Jack:
-And you were great! You were great in this shitty little video. 
-
-Vinny:
-Oh, that is good stuff. It may be, um, at some point, I might trouble you for some links to these early works, so that I can show the stream at some point. How do you feel about that? 
-
-Jack:
-I'm, there, all of the RedLetterMedia stuff is on, is on the RedLetterMedia site.
-
-Vinny:
-Poopagain?
-
-Jack:
-Poop Again? No, no. Poopagain is mine.
-
-Vinny:Okay.
-
-Jack:
-And, and Mike will not show that on the RedLetterMedia site.
-
-Vinny:
-Okay. Okay.
-
-Jack:
-I rememberm I asked Mike, I pitched, I pitched Poopagain PI, about the detective who poops in his pants, to Mike and Jessi after a music video shoot, because I really liked the idea, and I wanted Mike to play the detective.
-
-Vinny:Mm-hmm.
-
-Jack:
-And, and Mike very respectfully declined, saying that he did not want to poop his pants on camera.
-
-Rich:
-It was a wise decision. Wise decision.
-
-Jack:
-Really smart decision. Really smart.
-
-Vinny:
-Okay.
-
-Rich:
-How many, how many people have we lost since we started talking about Poopagain?
-
-Vinny:
-No, no, we're, we're growing.
-
-Jack:
-We’re gaining. 
-
-Righ:We're gaining?
-
-Vinny:
-Yeah, we're gaining. Right now, according to Twitch, I mean, we have 1,300 people, and there's 850 in Chatango alone, so that's pretty good. 
-
-Jack:See?
-
-Rich:
-All right. All right.
-
-Vinny:
-So. but let's, let's move on, though. Let's, let's talk about, um, well, actually, before i do that, I kind of wanted to mention, Jack and Rich, you were both in the Phantom Menace review, right?
-
-Rich:Uh, yeah.
-Vinny:When Mike, when Mike was like, “Describe these people like you ain't never seen them before.”
-
-Jack:Yep.
-
-Vinny:
-And, and Jack, you were the one that was like, “I see what you're doing.” Right?
-
-Jack:Yeah.
-
-Vinny:
-That was you. 
-
-Jack:
-Yeah, that was me.
-
-Vinny:
-Um, that was a, that was a hell of a thing. And you guys, that was my first exposure to Rich Stevens, um, as well. Because, Rich, I didn't, I hadn't, obviously most of us didn't know about RedLetterMedia until that review.
-
-Jack:Mm-hmm.
-
-Vinny:
-So I wanted to, um, actually talk about that for a second. That was a big break for you guys. And, from there, it opened a lot of opportunities for RedLetterMedia. And, and for you guys.
-
-Rich:Mm-hmm.
-
-Vinny:
-So, my, my question also goes to, how did you feel that Mike was, um, doing a different version of the character that you, you were?
-
-Rich: 
-I knew, I knew about it. I mean, The Phantom Menace review wasn't the first Mr. Plinkett review. We started... 
-
-Vinny:
-Star, Star Trek ones were.
-
-Rich:
-It was actually the, the fifth one he’d done. He started with the Star Trek movies. 
-
-Vinny:
-Yeah.
-
-Rich:
-Before he started doing those, he said, "Rich, I'm, I'm using the Plinkett voice. Do you mind?" Like, "Nah, I don't care."
-
-Jack:
-It's a great voice.
-
-Rich:
-And I really, I really don't care, because the Plinkett reviews have done great things for RedLetterMedia, so... 
-
-Vinny:
-Sure. 
-
-Rich:
-Yeah, so there's, that was, like, the fifth one, The Phantom Menace.
-
-Jack:
-Oh, yeah.
-
-Rich:
-And I...
-Vinny:And that was, yeah...
-
-Rich:
-I think I was the only one who, who thought it was gonna go somewhere. It was, like, Mike and Jay, and they're doing it, and they enjoy doing it. but I don't, I don't know that they thought that fame would come from it, but, I mean, I mean, I, I didn't have that much to do with it until I saw the final edits, so I was kind of looking at it from kind of, like, an outsider.
-
-Jack:Mm-hmm.
-
-Rich:
-And I, I saw, you know, this is, this is really entertaining.
-
-Jack:Oh, yeah.
-
-Rich:
-People might watch this.
-
-Jack:It was...
-
-Rich:Like, actually deliberately watch this. 
-
-Jack:
-It was right, it's, it's right there, like, and all of his reviews are incredibly entertaining, even, and I remember seeing the Star Trek ones when they first came out, just likek, "Oh, Mike, these are fucking hilarious."
-
-Vinny:Oh, yeah.
-
-Jack:But, like, I think The Phantom Menace review rode that infotainment line perfectly, where it was entertainment, but it also gave you something, you know, it gave you something to mull over, script-wise, characterization-wise, and so, and, I, I can't imagine a lot of people think of them as informational, but I do. 
-
-Vinny:
-No, no. I learned a ton from them. I mean, um, I'll just tell you, like, when I saw them, when I saw that, that first Phantom Menace review, I showed everyone, mainly because the way Mike was doing Plinkett’s voice, it sounded like an old friend of ours. This guy, Gamby.
-
-Jack:Mm-hmm.
-
-Rich:Yeah.
-
-Vinny:
-I swear to god, that's his name. And he kinda, he, he's deaf in one ear. Actually, deaf in both ears, but to different varying degrees. And he does that voice. That's his real voice. So, I was like, "You guys need to see this. Someone is pretending to be Gamby on YouTube," or wherever it was uploaded. And, and then we actually really got into it. And then from there, I had to show everyone. Because it wasn't so much about the voice. It was more about, you know, the stuff, the content. And, um, then I found out that Rich, you were, in fact, you know, the live-action guy that played Mr. Plinkett. And that you had a different take on the character. Mike had a different take on the character.
-
-Rich:Yeah.
-
-Jack:
-The shit that you guys got when Mr. Plinkett showed up on Half in the Bag.
-
-Rich:
-Fake, fake Plinkett? Well, it started with the Revenge of Nadine thing. 
-
-Vinny:
-Oh, yup.
-
-Jack:Oh, god.
-Rich:
-Yeah, yeah. I'm, I'm, I'm, I'm not shocked that people didn't like it. Because at that point, at that point, I knew that I was not the real Plinkett.
-
-Jack:Right.
-
-Vinny:
-Oh, my gosh.
-
-Rich:
-As far the audience was concerned.
-
-Jack:Sure.
-
-Rich:
-I, I knew that. So I wasn't shocked that people hated it. 
-
-Vinny:
-Well, I mean, you deal with what you're given, but, uh, at the same time, like, you know, Rich, now that there's been distance between this Phantom Menace review and, and now, I mean, you are the Plinkett. Let's face it. You know, people, people that watch these Half in the Bag things and see you, you're pretty much now at this point, it's, it's yours again, I feel. That's just my opinion. 
-
-Rich:
-Uh...yeah. You could say that, but I, I don't think so, because every, every day we see comments, “When’s, when's the next Plinkett review?”
-Vinny:Right.
-
-Rich:
-I don't, I don't think the audience has forgotten.
-
-Jack:
-What are you talking about right, Rich? I never see those comments. No one ever asks for the next Plinkett review. What are you, you’re crazy town.
-
-Vinny:Ah, crazy town.
-
-Jack:
-No, and I think, isn't official canon now, you'll have to remind me -- because I don't watch Half in the Bag a lot -- you'll have to remind me, isn't official canon that there are two Plinketts? 
-
-Rich:
-We did an ad where we explained that there are two Plinketts. 
-
-Vinny:
-Oh, I see.
-
-Rich:Yeah.
-
-Jack:
-Well, isn't, in one of the, in one of the things...
-
-Rich:
-Canon...canon’s not important. Canon, I mean, it really is not.
-
-Jack:
-Canon is very important. Canon is important to me. Didn't, I thought the emperor showed up at fake Plinkett's house? 
-
-Rich:
-Yes, looking for real Plinkett.
-
-Jack:Looking for real Plinkett.
-
-Rich:And he finds me.
-
-Jack:
-Yeah.
-
-Rich:And he electrocutes me.
-
-Jack:
-Right.
-
-Rich:
-And then on the next Half of the Bag, I was still sitting in the chair electrocuted. 
-
-Jack:
-Oh, nice. I don't remember, I don't remember any of this. 
-
-Rich:
-Yeah.
-
-Jack:Goes by in a blur.
-
-Vinny:
-I, I watched it. I, Yeah, I watched it, but I don't remember it. There's a lot of episodes of Half in the Bag. You guys have done, I mean, you know, talking about Mike being a workaholic, as you guys said one time on the, the stream, like, why he doesn't play video games...yeah, I mean, you guys produce a lot. Jay and Mike and you guys. Uh, there's a lot of stuff that, that's, that's been going on.
-
-Rich:
-Yeah.
-
-Vinny:
-Especially in the past four years, in terms of, like, web videos and stuff.
-
-Jack:
+JACK:
 Mm-hmm.
 
-Vinny:
-Um, I mean, does it...
+RICH:
+And the end of the movie comes up, and, and when Darth Vader rips out of the chair like Frankenstein, and says, "No," I started laughing hysterically in a crowded theater of people.
 
-Jack:
-Really, that's, that's the only reason we started the game show, is because we wanted an excuse to play games. 
-
-Vinny:
-And have some fun for once. 
-
-Jack:
-We work so much on other projects, where it's just, like, if we can, if we can make a show out of this, then we have an excuse to sit down for six hours and play video games. 
-
-Rich:
-Mike, Mike and Jay are almost always, they're not, you know, if they're not busy filming something...
-
-Jack:
+JACK:
 Mm-hmm.
 
-Rich:
-...they're busy editing our crap.
+RICH:
+And I, Ik kept laughing until the credits rolled. I could not stop laughing. And, and Mike wanted to get me laughing on camera, just so we could show people what it was like in the theater.
 
-Jack:
-Mm-hmm.
-
-Rich:
-So, I mean, part of the deal with the, with the Previously Recorded being just 10-minute chunks. It's just me and Jack.
-
-Jack:
-Mm-hmm.
-
-Rich:
-I mean, the whole goal was just to have us as independent from Jay and Mike as much as possible, so...
-
-Jack:Yeah.
-
-Rich:...we get another show out there, and they weren't bogged down with another...
-
-Jack:Absolutely.
-
-Rich:
-...12 hours worth of editing stuff.
-
-Jack:
-Absolutely. So, it's just us. I shoot it. I edit it.
-
-Rich:Yeah.
-
-Jack:
-And, yeah, that way, just Jay and Mike don't have to deal with it. but there is still content on the site, so that's...
-
-Vinny:
-Okay. See, I didn't know you, you actually edited those things, Jack.
-Jack:I do.
-
-Vinny:
-That's cool. Um, but Jack, I was gonna mention earlier, you make videos, though. You, you've, um, you, you make videos that you consider, if I remember correctly from when you're streaming, you said you make stuff that would consider easy to be spread around. Stuff that, you know, you brainstorm for ideas that would be possibly and potentially viral.
-
-Jack:My...
-
-Vinny:But you also have another job where you edit, don't you? Or, like, you...
-
-Jack:
-No, that's, that, my actual job is making viral videos. I...
-
-Vinny:
-Interesting.
-
-Jack:
-I make branded viral content. And so, uh, I work a lot with Funny or Die. I was, I was, I've been with Funny or Die since, since the site, the site started for awhile, uh...
-
-Vinny:
-Okay.
-
-Jack:,
-And, so basically, if a brand or a company wants a video to go viral, I am one of several people who will kind of pitch ideas, and try to make viral content for, for a brand.
-
-Vinny:Hmm.
-
-Jack:Uh, and we've had, we've had a couple success. Uh, if you've ever seen, um, the “Hey, pass me a beer" videos. Um...
-
-Vinny:
-I haven't seen that one.
-
-Jack:
-And that's okay. It's it doesn't hurt my feelings. But, uh...
-
-Rich:
-High, high-five videos. 
-
-Jack:
-Yeah, the high, the high-five videos. The, the bowling trick-shot videos. I, I, I've made a, uh, a good name for myself, I think, in, as far as viral content is concerned. But you would never know it was me, because I'm always behind camera and editing, so...
-
-Vinny:
-Okay.
-
-Jack:
-So, it's okay. 
-
-Vinny:
-So, you are. I mean, that's your job. You're an editor, you're a video editor. 
-
-Jack:
-Yeah, I'm a video editor and producer by trade. And then on, in my free time. I hang out with these assholes.
-
-Rich:
-I, I am the least-skilled person involved with RedLetterMedia. 
-
-Jack:
-You are the most, you are the face of RedLetterMedia.
-
-Rich:I am...
-
-Vinny:
-In a way, you are.
-
-Rich:
-I am the mascot.
-
-Vinny:
-Brilliant. All right. Do you, do, you don't edit all, Rich?
-
-Rich:
-No no, I'm an idiot. 
-
-Vinny:
-I actually had a question, though. Do you guys, um, when you do Best of the Worst, or when you do any, uh, like, stuff like that, like Half in the Bag or whatever, anything like that, um, do you use a switchboard, like TriCaster, or do you just, everything's in post? Everything is in post. 
-
-Jack:
-Yeah, it’s a, it's a three-camera setup for both, like, the discussion of Half in the Bag and the discussion of Best of the Worst is a three-camera setup, and it's, it's all in post, and Jay and Mike -- here’s some real dirt -- Jay and Mike are still using Final Cut 7.
-
-Rich:
-It's a slate. That's what I know.
-
-Vinny:
-Ugh, I'm on, I'm...
-
-Jack:Yes, it's very important to use the slate.
-
-Rich:
-That is...
-
-Vinny:I, I've, yeah...
-
-Rich:...a clapboard thing, for people who don't know what a slate is.
-
-Vinny:
-Uh, yeah, I'm a Premier guy myself. 
-
-Jack:
-Me, too. 
-
-Vinny:
-I've always been, always been.
-
-Jack:
-I, since, since, uh, since the switch over from Final Cut 7 to X, I, I switched over to Premiere CS5, and now I do the CC and I fucking in love it. I can't, I can't believe I wasted so much time with Final Cut. Not to get too nerdy, but...
-
-Vinny:
-No, it's fine. I, I worked at a community television station...
-
-Jack:Mm-hmm.
-
-Vinny:...here in this borough of Staten Island that I live in in New York, and, um, let me tell you something, the shit that I was exposed to on a daily basis, you guys, if I sent you VHS’s, you, you guys would be like, “What?” No, really. It, it, I also, yeah, I had to deal with a lot of stuff. Everyone was using Final Cut. Everyone was using 1980s, like, hot pink graphics.
-
-Jack:
-Nice.
-
-Vinny:And, uh, it was just, it was crazy. But, yeah, Premiere for me completely. 
-
-Jack:
-Absolutely. Well, and really, just, I, I've been, I've been trying to slowly talk them into moving over to Premiere just because Final Cut is still a 32-bit, uh, system, and so it's only taking advantage, it's only taking advantage of half of your processing power. And, so, like, render times are doubled. Export times are doubled. It's, it's a joke.
-Vinny:Mm-hmm.
-
-Jack:So...
-
-Vinny:
-I don't have any render times on my computer.
-
-Jack:Mm-hmm.
-
-Vinny:
-And that's a beautiful thing.
-
-Jack:Mm-hmm.
-
-Vinny:
-You know, because they forced me to use Final Cut, and I just noped right out of that. Um, now the question is, we've gone for almost an hour.
-
-Jack:Mm-hmm.
-
-Vinny:
-How much longer are you guys comfortable going for? Beause I have a few community questions, and just a few other little questions. 
-
-Jack:
-I, I'm good for another, like, fifteen to twenty.
-
-Rich:
-Yeah, yeah Fifteen to twenty is good.
-
-Vinny:
-Fifteen to twenty. Cool. All right, so I'll, I'll ask a few, uh, rapid-fire questions then.
-
-Jack:Great.
-
-Rich:Sure.
-
-Vinny:
-And then we'll go to community questions. So, I guess. um, real quick, I wanted to mention, when are we getting a Space Cop video game tie-in? 
-
-Rich:
-If somebody wants to make one, more power to you. But I don't think there's been any talks of an actual video game tie-in.
-
-Jack:
-That would be great. 
-
-Vinny:How is...
-
-Rich:
-We’d be lucky if we get the movie done. 
-
-Vinny:
-I was gonna ask, how are you doing with that? Is, uh, it coming along a bit? 
-
-Rich:
-It's coming along. Uh, we got, like, two major sequences to shoot, but we got a lot in the can.
-
-Jack:Mm-hmm.
-
-Rich:
-Though, I know editing this one is probably gonna be a bitch. There’s gonna be a lot of post-production type stuff going on. 
-
-Jack:
-A lot of editing. A lot of effects. A lot of, lot of, lot of garbage.
-
-Rich:
-And that makes it sound really exciting, but, it's, it's not.
-
-Jack:It...
-Rich:It's not.
-
-Jack:
-Just this stuff filmed last month, I, you know, like I, I was not really, like, I'm excited for Space Cop, beause I think it's really funny premise, but the footage I've seen from the past month gets me genuinely excited about Space Cop. 
-
-Rich:
-See, now you're, now you're over-hyping the movie.
-
-Jack:
-Over-, hey...
-
-Rich:
-Everybody's gonna be let down over it.
-
-Vinny:
-Uh-oh.
-
-Jack:
-Over-hype train coming into the station, toot toot!! Mother, mother fucks. I, I, I think there's some funny stuff.
-
-Rich:
-You know, the, the funny thing is, I'm, I'm on camera all the time for RedLetterMedia.
-
-Jack:Mm-hmm.
-
-Rich:
-I hate watching myself on camera. It’s the most uncomfortable thing in the world. I cringe. 
-
-Jack:Mm-hmm.
-
-Vinny:
-Ugh.
-
-Jack:Nice.
-
-Vinny:Um, all right, uh, let's see what's next. Uh, do you guys ever want to escape from Milwaukee? That's a fan question. 
-
-Rich:
-Well, I, I came here from Chicago, so...
-
-Jack:Mm-hmm.
-
-Rich:it’s not bad.
-
-Vinny:
-Okay.
-
-Rich:
-It's a fine place. 
-
-Jack:
-I, I love Milwaukee. It's, Milwaukee, I mean, it, it's perfect for me just because no one gives a fuck about Milwaukee. And so you can just be here and do whatever you want. And that's, that's the thing I like.
-
-Rich:
-It's, it's, it's like Chicago with less traffic. 
-
-Jack:
-Yeah.
-
-Rich:
-Rush hour here is actually an hour.
-
-Jack:Mm-hmm.
-
-Rich:And that's, that's, that's unusual for me. Rush hour is, like, all day in Chicago. 
-
-Jack:That's true.
-
-Vinny:Oh, yeah.
-
-Jack:
-It's really, it's a, it's a nice city. And, you know, like, some people like the big city-thing. You know, it's not for me. I, I, I dig, I dig being able to walk down the street and say hi to people, and not get stabbed. I really enjoy that.
-
-Vinny:
-Okay. That’s good. Yeah, I mean, New York City is a big city, too. I don't like to get stabbed either.
-
-Jack:
-Right! Right. 
-
-Vinny:
-So, I'm with you on that. Um, what else?  I, I'm trying to get through as many as I can.
-Rich:Sure.
-
-Vinny:
-Uh, let's see, okay, here's a good one. Um, Star Trek. You guys Star Trek fans? 
-
-Rich:
-Yes.
-
-Jack:Of course.
-
-Rich:Moreso than Star Wars.
-
-Jack:Yeah.
-
-Vinny:
-All right, um, I'm a huge Star Trek fan as of recently, so I, I'm currently working my way through Enterprise. I’ve got every other series done behind me.
-
-Jack:Mm-hmm.
-
-Vinny:
-Question is, what's your favorite Star Trek series, both of you? 
-
-Rich:
-Next Generation, hands down. 
-
-Jack:
-Next Generation, of course.
-
-Rich:
-It's all, it's all about Picard.
-
-Jack:
-Oh, god.
-
-Vinny:
-Nice. 
-
-Jack:
-It's all about, it's all about diplomacy, motherfucker. 
-
-Rich:
-Yes!
-
-Vinny:Absolutely.
-
-Rich:
-That is so, so refreshing. I love Picard.
-
-Jack:Mm-hmm.
-
-Rich:
-“Let’s sit down and think this over.” [inaudible] won't do that siht.
-
-Vinny:
-Yeah. Did you like Deep Space Nine, either of you?
-
-Rich:
-I like Deep Space Nine. I'm just saying my favorite is Next Gen. 
-
-Vinny:
-Okay.
-
-Rich:
-Um, god, I, I wanna say classic Trek next, but I don't know if that's just the nostalgia glasses. Deep Space Nine is quite good.
-
-Jack:
-I, I would say Next Gen, I think, I think original is mostly nostalgia glasses. There, there are some really good episodes of Original, but for me, it goes Next Gen, Voyager.
-Rich:Yeah.
-
-Jack:I dug the shit out of Voyager. 
-
-Rich:
-I, I love those characters. I mean, Kirk, Spock, McCoy.
-
-Jack:Ehh...
-
-Rich:
-It's classic.
-
-Jack:
-Watch me go, "Ehh..."
-
-Rich:
-All right, you can go, "Ehh..." if you want.
-
-Jack:
-Okay, good. 
-
-Rich:
-I don't give a shit.
-
-Jack:I'll do it one more time: "Ehh..."
-
-Vinny:
-I'm, I'm somewhere in the middle. But I, I see what you guys are saying. Okay, that's good to know. Next Gen, though, we, we've all agreed Next Gen is the best gen.
-
-Rich:Yes.
-
-Jack:Yeah, of course.
-
-Vinny:
-All right, um, let's talk about some favorite games. What guys, what games do you guys like the best? If you have, like, a few that you could just...
-
-Rich:
-This, this is one of those things, like, asking your favorite movie. It, it can change from week to week, or month to month.
-
-Vinny:
-At the moment then.
-
-Rich:
-Ugh...
-
-Vinny:
-A cop out question, huh?
-
-Rich:
-I haven't been playing many games at the moment because I've just been busy with Space Cop and real life stuff. Uh... 
-
-Vinny:
-Sure.
-
-Rich:
-Historically, my favorite game, I've always loved the first two Thief games.
-
-Vinny:
-Okay.
-
-Jack:
-Nice.
-
-Vinny:
-It's a good choice. 
-
-Rich:
-Yeah. Yeah. Garrett is just the best character ever. 
-
-Vinny:
-What do you think, Jack? Anything that sticks out?
-
-Jack:
-Like I said, lately I have been, I, I'm going for Platinum God in Binding of Isaac. Uh, I'm trying to get all the achievements in Binding of Isaac, so replaying that over and over and over again, it's currently my favorite game. As far as, uh, hours in go, it's, it's Team Fortress 2. That, that game is my jam up in here.
-
-Vinny:
-Nice. That's right. You have the engineer on your Skype profile there.
-
-Jack:
-I do, I...
-
-Vinny:Yeah.
-
-Jack:
-I, I have, I, I have so many hours into that game, it's hard not to call it my favorite. Uh, so I, I guess that, but, you know, also, you know, like, just hooking up the Super Nintendo and playing Super Mario World, and just going, “Oh, remember, fun?” 
-
-Rich:
-Here's, here's, here's a list of games I love unquestionably. There’s the first two Thiefs.
-
-Vinny:
-Okay.
-
-Rich:
-There's the two Zone of the Enders games. 
-
-Vinny:
-Okay.
-
-Rich:
-Uh, I’m really fond of Maximo. No More Heroes.
-
-Jack:
-Okay, good. 
-Rich:
-DOOM.
-
-Jack:
-You know, you've, you've brought up DOOM a lot...
-
-Rich:Quake II.
-
-Jack:
-...and I, I'm gonna call bullshit on anyone who DOOM is their favorite game. I think that's...
-
-Rich:
-Oh, fuck you. 
-
-Vinny:
-We got a few people here that like DOOM a lot. 
-
-Jack:
-Well, it's just so ugly, though.
-
-Rich:
-I, I, I love the sprites.
-
-Jack:Ehh...ehh...!
-
-Rich:
-That doesn’t, that doesn't change the fact that it's fun to just go nuts and shoot everything. 
-
-Jack:
-That's why I like Team Fortress 2.
-
-Rich:
-All right, all right.
-
-Vinny:
-Okay.
-
-Jack:Ehh...
-
-Vinny:
-So, all right, um, this one's from Cowboy_Sam. Um, first one's for Rich. I'll just ask the Rich one, because it's a good one. Uh, you brought up Mass Effect 3, Mass Effect 3’s ending...
-
-Rich:Yes.
-
-Vinny:...several times in your reviews, using it as an example of a poor ending. As a writer yourself, how do you approach the ending of the Mass Effect series?
-
-Rich:
-Well, I think the problem with Mass Effect is, they had no idea what they were doing in the first place. I, I, I think, you know, I mean, I love Mass Effect 2, but looking back on it, they don't really move the plot forward. They're not moving towards a solution. It's just, it's just like another adventure. And then by the time they get to the third, I think they had a very good idea how they wanted to end all of the subplots.
-
-Vinny:
-Mm-hmm.
-
-Rich:
-But I, the, the main Reaper thing just feels like they pulled it out of their ass at the last second. They said, “Ehh, it's, we'll do something artsy.” And it, hat ending just does not work for that series. So, I don't, I don't know what I would have done. I don't know what you could have done, because I don't think they set it up properly in the first place. That's my answer.
-
-Vinny:
-Okay. Um, any thoughts -- from Fish_of_Sex -- any thoughts on a version of Best of the Worst without video, with video games? 
-
-Jack:
-Actually, you know, someone just mentioned somewhere, like, in the, in the comments section about our E3 video...
-
-Vinny:Mm-hmm.
-
-Jack:
-...where they would have liked to see our reactions to the conferences, like we do on Best of the Worst. And I actually thought that was a really good idea.
-
-Rich:
-As far as, as far as the playing bad games and making fun of them, don't other people do already, I mean, that's, that's...
-
-Vinny:
-That's kind of what I do, too. 
-
-Jack:Right.
-
-Rich:
-That's the Angry Video Game Nerd. A lot of people do that, I mean...
-
-Vinny:
-Sure.
-
-Jack:You know, it...
-
-Vinny:
-It's done to death. 
-
-Rich:Yeah.
-
-Jack:
-I think, actually, what we do on Previously Recorded is very similar to Best of the Worst, where we have footage of us on the couch playing the game, and, and...
-
-Rich:
-I mean, we only have three episodes so far, so...
-
-Jack:
-Right, exactly. Well, technically we have five, but only, only three out.
-
-Rich:
-Only three released.
-
-Jack:
-Only three released. So, but, you know, like, I, I think maybe that's something more where we would stream. 
-
-Rich:
-Yeah. Yeah, if we’re gonna play a bad game, an old game, we'd probably just...
-
-Jack:
-Save it for a livestream.
-
-Rich:
-Yeah.
-
-Jack:Just because then I don't have to worry about looking at it over and over again. And editing. But, yeah.
-
-Vinny:
-Okay. From PTCF4, what do you guys think about the concept of early access games?
-
-Rich:
-Jack hates them. I, I, I don't mind. I, I'm just gonna wait till it's done anyway, so if somebody else wants to play it early, I don't give a fuck.
-
-Vinny:
-Okay. 
-
-Jack:
-Yeah, I think, I, I think I left this in the, the E3 edit. Early access is nothing but bullshit marketing. And, it, all it's doing is, is building up hype for the beta release so people can play it and let these developers fix all the bugs, and then there's no hype left for when the game comes out. 
-
-Vinny:Mm-hmm.
-
-Rich:
-They, they want to make money, and somebody saw that Minecraft made a shitload of money.
-
-Vinny:Mm-hmm.
-
-Rich:
-So they’re going to keep doing it. 
-
-Jack:
-Oh, of course, they’re going to keep doing it. And I, I think it’s terrible, uh, and I try my very hardest to stay away from any game that is not finished.
-
-Rich:
-I, I don't, I don’t know that I would wanna play a beta unfinished version of a game, but...
-
-Jack:
-Mm-hmm.
-
-Rich:...just watching, like, the, the videos tha the people who made, uh, Prison Architect have been making, like, watching the progress just on, on their YouTube channel...
-
-Jack:Sure.
-
-Rich:
-That's been fun. 
-
-Jack:
-Okay.
-
-Vinny:
-Okay. Well, I mean, it, for me it goes both ways. It could be bad. It could be good. It depends, really. Um, it, sometimes an early access works.
-
-Jack:
-Mm-hmm.
-
-Vinny:
-And I don't mind playing it, and testing it out. Most of the time, I'm with Jack, though, and, and I don't really wanna ruin the hype or the surprise for myself, so I kind of stay away from early access for bigger games, but if it's an indie game that's, like, almost done anyway, then all right, why not?
-
-Jack:
-Sure. Well, yeah, it's a [inaudible], but, like, you know, for example, Day Z is something, the Day Z standalone was something that I was crazy hyped about. And, you know, following every single little pinch of development.
-
-Vinny:
-Mm-hmm.
-
-Jack:
-And now we're, we're what, two years away, and not even closer to a release. And I, I'm done. I'm done with Day Z, and the game isn't even out yet. Um...
-
-Vinny:
-I hear ya. It's like that with Rust, too.
-
-Jack:
-Yeah.
-
-Vinny:
-But Rust is making developments, you know, to redo their thing from the ground up, so, yeah. 
-
-Jack:
-Yeah, but, like, even, even Rust is like that. There, there's a game that I got really psyched about, and I played a little bit. It's still in early access. It's called, uh, Sir, You Are Being Hunted, and it's, like, I've played enough of the beta, now where I don't care if they fix anything, because I’m done playing the game. 
-
-Rich:
-Here's the thing, though, Jack. You can, you can choose not to play it. Does it really bother you that they do it? 
-
-Jack:
-It bothers me because now I'm not excited about it.
-
-Vinny:Mm.
-
-Rich:
-But you didn't have to play it and get excited about it. You could have said, "Okay, this is a thing that they're working on, I'll wait till it's done."
-
-Jack:
-Yeah, oh, but I haven't even played the Day Z standalone, and I'm no longer excited about it, because I've...
-
-Rich:
-Just, just from the constant hype?
-
-Jack:
-Just from the constant hype. 
-
-Rich:
-Ehh...you're, you’re nuts.
-
-Jack:
-It's true, I am nuts. I'm an incredible asshole.
-
-Vinny:
-Okay, next. I, I, I do have another one.
-
-Jack:Okay.
-
-Vinny:Just a few more quick ones. Uh, first one is from Reggie_Giggity. Uh, have there been any video game adaptations of movies which were not horrible, that you guys like. 
-
-Rich:
-I don't know that I've gone out of my way to play movie adaptations. 
-
-Jack:
-Oh, wait. Wait, a video game adaptation of a movie...
-Rich:Yeah.
-
-Jack:
-...or a movie adaptation of a video game? What was the question?
-
-Vinny:Um...
-
-Rich:
-I think it was, like, a video game adaptation of a movie, right? 
-
-Vinny:
-Yeah, yeah. So, any, any that you like? I mean, Goldeneye springs to mind immediately as one that everyone seems to, you know, say is the best. 
-
-Jack:
-Like, I really enjoyed a lot of the, the first couple of Spider-Man games for PS2. 
-
-Vinny:
-Okay.
-
-Jack:
-Those were, you know...
-
-Rich:Ehh...
-
-Jack:
-...just because you get to play Spider-Man and swing around. In Spider-Man 2...
-
-Rich:
-Spider-Man 2 is only good for the web swinging. 
-
-Jack:
-Yeah.
-
-Rich:
-The rest of the game is crap.
-
-Jack:
-Of course But, I felt, it felt really nice to play as Spider-Man.
-
-Rich:
-Okay. Okay.
-
-Jack:
-And, and, you know, like, do you remember the first Spider-Man game, if you beat it a certain way, then you could play the entire game as the Green Goblin, and just bomb everyone? That was neat. Um, I'm trying to think of any other video games based off of movies. Oh, did, have you guys seen the, uh, this isn't based off of a movie, but the, uh, the Pixel enterprise that you can go around as play as Data?
-
-Vinny:
-Yes.
-
-Jack:
-Like, that was, that was really neat, just as a dork.
-
-Rich:
-I, I will be interested when somebody makes a game out of that. 
-
-Vinny:
-There's already, you know, um, the Oculus Rift, right? 
-
-Jack:
-Mm-hmm.
-
-Rich:
-I keep hearing about it, yeah.
-
-Vinny:
-Yeah, they, someone made a 3D modeled Enterprise bridge, ready room, and I believe conference room. I streamed it. And it's just, it's just that. And then, you know, you can't really explore the Enterprise, but you can see, like, the stations in first-person mode. It’s, it's okay. I think in a few years, we'll get like the whole Enterprise...
-
-Jack:
-Oh, sure.
-
-Vinny:...when VR becomes a thing, you know?
-
-Jack:
-I see someone in the chat mentioning the, uh, Power Rangers, the movie Super Nintendo game. Fuck you for remembering that. Their attempt at a side scrolling brawler with the Power Rangers. It's terrible.
-
-Vinny:
-Oh, my lord.
-
-Rich:
-There's, there's, there's gotta be a good movie game, but, I'm gonna. I'm gonna, I'm gonna take too long thinking about it.
-
-Jack:Exactly.
-
-Vinny:
-That's okay. We'll, we'll move on to the next one. Um, there's, like I said, maybe two more last questions. Final ones.
-
-Jack:
-Okay.
-
-Vinny:From Joel, who's a streamer here, who wanted me to tell you that he's a huge fan of you guys.
-
-Rich:Thanks, Joel!
-
-Vinny:
-The same as I am. We've been watching you for, you know, sleep and piss for years, and it's -- I'll be in your bedroom tonight -- I was gonna say, uh, what? 
-
-Jack:
-Nothing, nothing. We're just slowly walking out of the room. 
-
-Vinny:
-Joel is, uh, no, he's, uh, he's, he's like me, where we started watching, uh, Mike's videos, and then we progressed, and, you know, I have Feeding Frenzy. I actually have a quick piece of history from this site. I actually emailed Mike about three years ago...
-
-Jack:
-Mm-hmm.
-
-Vinny:
-...and he did a little Plinkett voice clip for us. He did a little promo for us.
-
-Rich:
-Oh, nice.
-
-Jack:Nice.
-
-Vinny:
-Yeah, and we had it on our site. And when we weren't streaming, it would pop up every now, and then and just say, "Go to RedLetterMedia, Vinny is a fucking asshole."
-
-JackNice.
-
-Vinny:
-It was perfect. I, seriously, I'll always be grateful to Mike for that. Um, and, and another thing, I have an autographed copy of Feeding Frenzy, and I specifically asked for Jay and Mike, but not you, Rich. 
-
-Rich:
-Oh, you son of a bitch.
-
-Vinny:
-Rich, why weren't you in that?
-Rich:
-What?
-
-Vinny:
-Or, you, you, in Feeding Frenzy? 
-
-Rich:
-I am in it! 
-
-Vinny:
-Where are you? 
-
-Rich:
-I'm Mr. Plinkett! 
-
-Vinny:
-Oh, that's right. 
-
-Rich:
-Oh, for crying out loud. Oh, for...
-
-Vinny:
-The next question is, where do you get the VHS movies for Best of The Worst, anyway? Donations, bought from thrift shops, or stolen from Satan's fiery asshole?
-
-Rich:
-Uh, all three.
-
-Jack:
-Right. 
-
-Rich:
-Uh, we get plenty of people to send us stuff, and then, we get a lot from thrift stores.
-
-Jack:
-Yeah.
-
-Vinny:Okay.
-
-Rich:Mostly people send us stuff at this point, though. 
-
-Jack:
-Yeah, which is great. Keep sending us stuff. It's, it's, it's great. But, you know, like...
-
-Rich:
-Some people, some people don't get it, though. They'll, like, send us the Matrix Revolutions, and we're, we're not gonna do that on Best of the Worst.
-
-Jack:
-Or they'll send us Jerry Maguire, or something like that. 
-
-Rich:
-Yeah.
-
-Vinny:Okay.
-
-Jack:
-But yeah, we definitely, for sure, I think the, the most famous is Elves, Jay found at a secondhand store in, like, Montana. 
-
-Vinny:Okay.
-
-Rich:
-I think it was actually a pawn shop.
-
-Jack:
-Ah, a pawn shop. Some, teah, it was just the craziest find ever and, but, but we have a lot of great secondhand stores and, and, uh, 7 Mile Fair. 
-
-Vinny:
-Okay.
-
-Jack:
-It’s a large rummage sale.
-
-Vinny:
-And, I guess this one's just from me as a final question. Um, since you guys have gotten a lot of attention from the internet and, you know, with the Half in the Bag stuff, with the reviews and now that you guys are doing the video game show, which a lot of people seem to like, how has it been? I mean, you guys have been doing this for, for years, but now you're getting a lot of attention. Have the fans been nice? Has it, has it been annoying? And, um, wh-, wh-, honestly, like, how do you feel about this internet fame stuff there? 
-
-Rich:
-There, there are a lot of good fans out there. Um, then there's some, some creepy ones, too. Um...
-
-Vinny:
-I know.
-
-Rich:
-There's some people online who are borderline scary.
-
-Jack:Mm-hmm.
-
-Vinny:Mm-hmm.
-
-Rich:
-But then, then, you know, every now and then you'll meet somebody in real life who is just very friendly, and will come up and shake your hand. 
-
-Jack:
-Yeah.
-
-Rich:
-I'm, I'm gonna tell a story. I've, I've told it before, but it's, it's the ultimate recognized in public story, okay.
-
-Vinny:
-Sure.
-
-Rich:
-Um, I was just browsing around this used DVD store by where I used to live. And I'm just, I'm just minding my own business, looking at the movies. And this guy behind the counter notices me. He's not 100% sure it's, it's me, though, it's Rich Evans.
-
-Vinny:
+VINNY:
 Uh-huh.
 
-Rich:So he goes to the RedLetterMedia site, and he pulls up one of our old videos, the, the one with the monkey man.
+RICH:
+And I could not do it.
 
-Vinny:Uh-huh.
+JACK:
+Mm-hmm.
 
-Rich:
-And in that video, there's footage of my grandmother, who's now deceased, right? So, so he pulls up this video on the store computer. Now I'm. I'm, I'm elsewhere in the store, I'm just minding my own business. And this guy plays this video on the store speakers and just, out of nowhere, I hear my dead grandmother's voice in this DVD store, and I, I jumped like ten feet straight into the air. I turn around and there's this clerk going, "Hey, you’re Rich Evans!"
+RICH:
+I can't recreate that laugh. That is my natural laugh.
 
-Vinny:
-Oh, my god!
+JACK:
+Mm-hmm.
 
-Jack:
-I love that story.
+RICH:
+And I, I just go, go all in with my laughter. 
 
-Rich:
-It's a great story, and I've probably told it eight times though, but I love it. 
+JACK:
+Mm-hmm.
 
-Vinny:
-I didn't know it. And that's, that's pretty, oh, how was it, though? I mean, you've been recognized more times than that. Do you like being stopped, if people recognize you?
+VINNY:
+I respect that. I think, uh, most of, most of us respect that here on this site because they have to deal with it every day. So, I, I, you know, my shitty laugh. So, you know what, I say, go for it. And, and you're okay with it. You go all in. You don't give a shit, right? 
 
-Rich:
-I, I don't mind. I don't mind. I mean, if I'm busy doing something with somebody else, a little, make it quick. "Oh, yeah, nice, nice to meet you!"
+JACK:
+Yeah. No, no, no.
 
-Jack:Mm-hmm.
+VINNY:
+Good.
 
-Vinny:
+JACK:
+Rich is a jovial person, and if he feels like laughing, who, who are you to tell him not to laugh? You fucking prick! You leave Rich Evans alone.
+
+VINNY:
+Jesus, um, all right, well, let me, let me also, while I'm on the topic of, um, of your laugh, Rich, I wanted to mention, you know, Plinkett. You know, you, you've...
+
+RICH:
+Yeah.
+
+VINNY:
+...played this character for years, and, um, I mean, this, this gets into the history of, of RedLetterMedia, and the whole thing. I mean, let's take a nosedive straight into it for a few minutes.
+RICH:
+Sure.
+
+VINNY:
+Um, so how do you guys, uh, know each other. And Jack, also, how did you link up with these guys as well? How did, how did this, this partnership of RedLetterMedia begin? 
+
+JACK: Sure, I'll let Rich start.
+
+RICH:
+\We all kind of met at different times. I, I met Mike in high school.
+
+VINNY:
+Mm -hmm.
+
+RICH:
+And I just kind of like, you know, after school, we'd, we'd hang out at his parents’ house. And he had a camera, and we’d just make stupid videos in our free time.
+
+VINNY:
+Mm-hmm.
+
+RICH:
+That was, that was our hobby. And then, uh, later on, there was this, this website called REwind Video, and, uh, a bunch of different like amateur filmmakers that made movies would congregate there. And the only person who hung out there with any talent was Jay Bauman.
+
+VINNY:
+Mm-hmm.
+
+RICH:
+And that's how me and Mike met Jay. And then we'd started making stuff together. And then, uh, Jack, I'm, I'm actually not entirely sure how you came into the picture, because you, you came into things up here in Milwaukee when I was still living in Chicago.
+
+JACK:
+That’s right. I just, I magically appeared in the ether.
+
+RICH:
+You magically appeared, as far as I’m concerned. 
+
+JACK:
+That's true. Yeah, no. And, you know, I don't know how, how did I meet Mike and Jay? You know, just friends of friends. We're both internet filmmakers and so we just met because that's what happens. You naturally go towards the things that you like, right? And, uh, they needed actors. And I'm a terrible actor. But, I, you know, I'm okay with, with anything, and so they just said, "We need an actor," and I said, "I'm a terrible actor," and they said, "Eh, whatever, you'll show up, so we'll have you." And so I started acting in their stuff. And, and, then, yeah, we just, you know, they helped me out my shoots, I helped them on their shoots, and that's how we got started. Kind of a boring -- I think the first thing I did was The Grabowski's.
+
+VINNY:
 Okay.
 
-Rich:
+JACK:
+I was Frank Hammer.
+
+VINNY:
+That's, that's early.
+
+JACK:
+Frank Hammer in the Grabowski's, and, uh, and then I was in, Jay then had me come back for Pork Pork in Space, which, which I loved. I loved my character in Pork Pork. And whenever they have me act in anything, it's like, "Okay, I want to be a good actor. I wanna be prepared. Where's the script? So I can, you know, learn my lines." And they go, “Script? Uh, this is what you say," and they just tell me my lines right before they start shooting. Bunch of hacks...
+
+RICH:
+You say that, but, I, I recall you having me to come up to Milwaukee, so you could film Poopagain PI with me. 
+
+JACK:
+Uh-huh, uh-huh. And...? And I gave you a script.
+
+RICH:
+You, you wrote a script for something called Poopagain PI.
+
+JACK:
+Uh-huh.
+
+RICH:
+I just wanna point that out.
+
+JACK:
+About the detective that poops in his pants. Yeah, and...?
+
+RICH:
+Okay.
+
+VINNY:
+My, god. That's brilliant!
+
+JACK:
+That was, like, I had met Rich a few times before then. And, you know, obviously enjoyed Rich a lot. And I needed this, I needed a good actor for the character of, like, the grizzled old chief of police.
+
+RICH:
+And the first person you think of -- with a grizzled old police chief -- is Rich Evans.
+
+VINNY:
+Is Rich Evans.
+
+JACK:
+Is Rich Evans, absolutely.
+
+VINNY:
+Uh-huh.
+
+JACK:
+And I didn't even know you were in Chicago at the time. 
+
+RICH:
+No.
+
+JACK:
+Because we had not interacted with each other a lot, and so I was like, I was like, “Oh, Mike, can, you know, can, can we get Rich in, you know, have him come and do Poopagain?” And Mike's like, "Sure, whatever.” And you just you came up from Chicago to act in Poopagain. 
+
+VINNY:
+Wow.
+
+JACK:
+That's good people. That's good people.
+
+RICH:
+I'm, I'm a good guy. I was, I was flattered that somebody would actually want me to act in their project.
+
+JACK:
+And you were great! You were great in this shitty little video. 
+
+VINNY:
+Oh, that is good stuff. It may be, um, at some point, I might trouble you for some links to these early works, so that I can show the stream at some point. How do you feel about that? 
+
+JACK:
+I'm, there, all of the RedLetterMedia stuff is on, is on the RedLetterMedia site.
+
+VINNY:
+Poopagain?
+
+JACK:
+Poop Again? No, no. Poopagain is mine.
+
+VINNY:
+Okay.
+
+JACK:
+And, and Mike will not show that on the RedLetterMedia site.
+
+VINNY:
+Okay. Okay.
+
+JACK:
+I rememberm I asked Mike, I pitched, I pitched Poopagain PI, about the detective who poops in his pants, to Mike and Jessi after a music video shoot, because I really liked the idea, and I wanted Mike to play the detective.
+
+VINNY:
+Mm-hmm.
+
+JACK:
+And, and Mike very respectfully declined, saying that he did not want to poop his pants on camera.
+
+RICH:
+It was a wise decision. Wise decision.
+
+JACK:
+Really smart decision. Really smart.
+
+VINNY:
+Okay.
+
+RICH:
+How many, how many people have we lost since we started talking about Poopagain?
+
+VINNY:
+No, no, we're, we're growing.
+
+JACK:
+We’re gaining. 
+
+Righ:
+We're gaining?
+
+VINNY:
+Yeah, we're gaining. Right now, according to Twitch, I mean, we have 1,300 people, and there's 850 in Chatango alone, so that's pretty good. 
+
+JACK:
+See?
+
+RICH:
+All right. All right.
+
+VINNY:
+So. but let's, let's move on, though. Let's, let's talk about, um, well, actually, before i do that, I kind of wanted to mention, Jack and Rich, you were both in the Phantom Menace review, right?
+
+RICH:
+Uh, yeah.
+
+VINNY:
+When Mike, when Mike was like, “Describe these people like you ain't never seen them before.”
+
+JACK:
+Yep.
+
+VINNY:
+And, and Jack, you were the one that was like, “I see what you're doing.” Right?
+
+JACK:
+Yeah.
+
+VINNY:
+That was you. 
+
+JACK:
+Yeah, that was me.
+
+VINNY:
+Um, that was a, that was a hell of a thing. And you guys, that was my first exposure to Rich Stevens, um, as well. Because, Rich, I didn't, I hadn't, obviously most of us didn't know about RedLetterMedia until that review.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+So I wanted to, um, actually talk about that for a second. That was a big break for you guys. And, from there, it opened a lot of opportunities for RedLetterMedia. And, and for you guys.
+
+RICH:
+Mm-hmm.
+
+VINNY:
+So, my, my question also goes to, how did you feel that Mike was, um, doing a different version of the character that you, you were?
+
+RICH: 
+I knew, I knew about it. I mean, The Phantom Menace review wasn't the first Mr. Plinkett review. We started... 
+
+VINNY:
+Star, Star Trek ones were.
+
+RICH:
+It was actually the, the fifth one he’d done. He started with the Star Trek movies. 
+
+VINNY:
+Yeah.
+
+RICH:
+Before he started doing those, he said, "Rich, I'm, I'm using the Plinkett voice. Do you mind?" Like, "Nah, I don't care."
+
+JACK:
+It's a great voice.
+
+RICH:
+And I really, I really don't care, because the Plinkett reviews have done great things for RedLetterMedia, so... 
+
+VINNY:
+Sure. 
+
+RICH:
+Yeah, so there's, that was, like, the fifth one, The Phantom Menace.
+
+JACK:
+Oh, yeah.
+
+RICH:
+And I...
+
+VINNY:
+And that was, yeah...
+
+RICH:
+I think I was the only one who, who thought it was gonna go somewhere. It was, like, Mike and Jay, and they're doing it, and they enjoy doing it. but I don't, I don't know that they thought that fame would come from it, but, I mean, I mean, I, I didn't have that much to do with it until I saw the final edits, so I was kind of looking at it from kind of, like, an outsider.
+
+JACK:
+Mm-hmm.
+
+RICH:
+And I, I saw, you know, this is, this is really entertaining.
+
+JACK:
+Oh, yeah.
+
+RICH:
+People might watch this.
+
+JACK:
+It was...
+
+RICH:
+Like, actually deliberately watch this. 
+
+JACK:
+It was right, it's, it's right there, like, and all of his reviews are incredibly entertaining, even, and I remember seeing the Star Trek ones when they first came out, just likek, "Oh, Mike, these are fucking hilarious."
+
+VINNY:
+Oh, yeah.
+
+JACK:
+But, like, I think The Phantom Menace review rode that infotainment line perfectly, where it was entertainment, but it also gave you something, you know, it gave you something to mull over, script-wise, characterization-wise, and so, and, I, I can't imagine a lot of people think of them as informational, but I do. 
+
+VINNY:
+No, no. I learned a ton from them. I mean, um, I'll just tell you, like, when I saw them, when I saw that, that first Phantom Menace review, I showed everyone, mainly because the way Mike was doing Plinkett’s voice, it sounded like an old friend of ours. This guy, Gamby.
+
+JACK:
+Mm-hmm.
+
+RICH:
+Yeah.
+
+VINNY:
+I swear to god, that's his name. And he kinda, he, he's deaf in one ear. Actually, deaf in both ears, but to different varying degrees. And he does that voice. That's his real voice. So, I was like, "You guys need to see this. Someone is pretending to be Gamby on YouTube," or wherever it was uploaded. And, and then we actually really got into it. And then from there, I had to show everyone. Because it wasn't so much about the voice. It was more about, you know, the stuff, the content. And, um, then I found out that Rich, you were, in fact, you know, the live-action guy that played Mr. Plinkett. And that you had a different take on the character. Mike had a different take on the character.
+
+RICH:
+Yeah.
+
+JACK:
+The shit that you guys got when Mr. Plinkett showed up on Half in the Bag.
+
+RICH:
+Fake, fake Plinkett? Well, it started with the Revenge of Nadine thing. 
+
+VINNY:
+Oh, yup.
+
+JACK:
+Oh, god.
+
+RICH:
+Yeah, yeah. I'm, I'm, I'm, I'm not shocked that people didn't like it. Because at that point, at that point, I knew that I was not the real Plinkett.
+
+JACK:
+Right.
+
+VINNY:
+Oh, my gosh.
+
+RICH:
+As far the audience was concerned.
+
+JACK:
+Sure.
+
+RICH:
+I, I knew that. So I wasn't shocked that people hated it. 
+
+VINNY:
+Well, I mean, you deal with what you're given, but, uh, at the same time, like, you know, Rich, now that there's been distance between this Phantom Menace review and, and now, I mean, you are the Plinkett. Let's face it. You know, people, people that watch these Half in the Bag things and see you, you're pretty much now at this point, it's, it's yours again, I feel. That's just my opinion. 
+
+RICH:
+Uh...yeah. You could say that, but I, I don't think so, because every, every day we see comments, “When’s, when's the next Plinkett review?”
+
+VINNY:
+Right.
+
+RICH:
+I don't, I don't think the audience has forgotten.
+
+JACK:
+What are you talking about right, Rich? I never see those comments. No one ever asks for the next Plinkett review. What are you, you’re crazy town.
+
+VINNY:
+Ah, crazy town.
+
+JACK:
+No, and I think, isn't official canon now, you'll have to remind me -- because I don't watch Half in the Bag a lot -- you'll have to remind me, isn't official canon that there are two Plinketts? 
+
+RICH:
+We did an ad where we explained that there are two Plinketts. 
+
+VINNY:
+Oh, I see.
+
+RICH:
+Yeah.
+
+JACK:
+Well, isn't, in one of the, in one of the things...
+
+RICH:
+Canon...canon’s not important. Canon, I mean, it really is not.
+
+JACK:
+Canon is very important. Canon is important to me. Didn't, I thought the emperor showed up at fake Plinkett's house? 
+
+RICH:
+Yes, looking for real Plinkett.
+
+JACK:
+Looking for real Plinkett.
+
+RICH:
+And he finds me.
+
+JACK:
+Yeah.
+
+RICH:
+And he electrocutes me.
+
+JACK:
+Right.
+
+RICH:
+And then on the next Half of the Bag, I was still sitting in the chair electrocuted. 
+
+JACK:
+Oh, nice. I don't remember, I don't remember any of this. 
+
+RICH:
+Yeah.
+
+JACK:
+Goes by in a blur.
+
+VINNY:
+I, I watched it. I, Yeah, I watched it, but I don't remember it. There's a lot of episodes of Half in the Bag. You guys have done, I mean, you know, talking about Mike being a workaholic, as you guys said one time on the, the stream, like, why he doesn't play video games...yeah, I mean, you guys produce a lot. Jay and Mike and you guys. Uh, there's a lot of stuff that, that's, that's been going on.
+
+RICH:
+Yeah.
+
+VINNY:
+Especially in the past four years, in terms of, like, web videos and stuff.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+Um, I mean, does it...
+
+JACK:
+Really, that's, that's the only reason we started the game show, is because we wanted an excuse to play games. 
+
+VINNY:
+And have some fun for once. 
+
+JACK:
+We work so much on other projects, where it's just, like, if we can, if we can make a show out of this, then we have an excuse to sit down for six hours and play video games. 
+
+RICH:
+Mike, Mike and Jay are almost always, they're not, you know, if they're not busy filming something...
+
+JACK:
+Mm-hmm.
+
+RICH:
+...they're busy editing our crap.
+
+JACK:
+Mm-hmm.
+
+RICH:
+So, I mean, part of the deal with the, with the Previously Recorded being just 10-minute chunks. It's just me and Jack.
+
+JACK:
+Mm-hmm.
+
+RICH:
+I mean, the whole goal was just to have us as independent from Jay and Mike as much as possible, so...
+
+JACK:
+Yeah.
+
+RICH:
+...we get another show out there, and they weren't bogged down with another...
+
+JACK:
+Absolutely.
+
+RICH:
+...12 hours worth of editing stuff.
+
+JACK:
+Absolutely. So, it's just us. I shoot it. I edit it.
+
+RICH:
+Yeah.
+
+JACK:
+And, yeah, that way, just Jay and Mike don't have to deal with it. but there is still content on the site, so that's...
+
+VINNY:
+Okay. See, I didn't know you, you actually edited those things, Jack.
+
+JACK:
+I do.
+
+VINNY:
+That's cool. Um, but Jack, I was gonna mention earlier, you make videos, though. You, you've, um, you, you make videos that you consider, if I remember correctly from when you're streaming, you said you make stuff that would consider easy to be spread around. Stuff that, you know, you brainstorm for ideas that would be possibly and potentially viral.
+
+JACK:
+My...
+
+VINNY:
+But you also have another job where you edit, don't you? Or, like, you...
+
+JACK:
+No, that's, that, my actual job is making viral videos. I...
+
+VINNY:
+Interesting.
+
+JACK:
+I make branded viral content. And so, uh, I work a lot with Funny or Die. I was, I was, I've been with Funny or Die since, since the site, the site started for awhile, uh...
+
+VINNY:
+Okay.
+
+JACK:,
+And, so basically, if a brand or a company wants a video to go viral, I am one of several people who will kind of pitch ideas, and try to make viral content for, for a brand.
+
+VINNY:
+Hmm.
+
+JACK:
+Uh, and we've had, we've had a couple success. Uh, if you've ever seen, um, the “Hey, pass me a beer" videos. Um...
+
+VINNY:
+I haven't seen that one.
+
+JACK:
+And that's okay. It's it doesn't hurt my feelings. But, uh...
+
+RICH:
+High, high-five videos. 
+
+JACK:
+Yeah, the high, the high-five videos. The, the bowling trick-shot videos. I, I, I've made a, uh, a good name for myself, I think, in, as far as viral content is concerned. But you would never know it was me, because I'm always behind camera and editing, so...
+
+VINNY:
+Okay.
+
+JACK:
+So, it's okay. 
+
+VINNY:
+So, you are. I mean, that's your job. You're an editor, you're a video editor. 
+
+JACK:
+Yeah, I'm a video editor and producer by trade. And then on, in my free time. I hang out with these assholes.
+
+RICH:
+I, I am the least-skilled person involved with RedLetterMedia. 
+
+JACK:
+You are the most, you are the face of RedLetterMedia.
+
+RICH:
+I am...
+
+VINNY:
+In a way, you are.
+
+RICH:
+I am the mascot.
+
+VINNY:
+Brilliant. All right. Do you, do, you don't edit all, Rich?
+
+RICH:
+No no, I'm an idiot. 
+
+VINNY:
+I actually had a question, though. Do you guys, um, when you do Best of the Worst, or when you do any, uh, like, stuff like that, like Half in the Bag or whatever, anything like that, um, do you use a switchboard, like TriCaster, or do you just, everything's in post? Everything is in post. 
+
+JACK:
+Yeah, it’s a, it's a three-camera setup for both, like, the discussion of Half in the Bag and the discussion of Best of the Worst is a three-camera setup, and it's, it's all in post, and Jay and Mike -- here’s some real dirt -- Jay and Mike are still using Final Cut 7.
+
+RICH:
+It's a slate. That's what I know.
+
+VINNY:
+Ugh, I'm on, I'm...
+
+JACK:
+Yes, it's very important to use the slate.
+
+RICH:
+That is...
+
+VINNY:
+I, I've, yeah...
+
+RICH:
+...a clapboard thing, for people who don't know what a slate is.
+
+VINNY:
+Uh, yeah, I'm a Premier guy myself. 
+
+JACK:JACK:
+Me, too. 
+
+VINNY:
+I've always been, always been.
+
+JACK:
+I, since, since, uh, since the switch over from Final Cut 7 to X, I, I switched over to Premiere CS5, and now I do the CC and I fucking in love it. I can't, I can't believe I wasted so much time with Final Cut. Not to get too nerdy, but...
+
+VINNY:
+No, it's fine. I, I worked at a community television station...
+
+JACK:
+Mm-hmm.
+
+VINNY:
+...here in this borough of Staten Island that I live in in New York, and, um, let me tell you something, the shit that I was exposed to on a daily basis, you guys, if I sent you VHS’s, you, you guys would be like, “What?” No, really. It, it, I also, yeah, I had to deal with a lot of stuff. Everyone was using Final Cut. Everyone was using 1980s, like, hot pink graphics.
+
+JACK:
+Nice.
+
+VINNY:
+And, uh, it was just, it was crazy. But, yeah, Premiere for me completely. 
+
+JACK:
+Absolutely. Well, and really, just, I, I've been, I've been trying to slowly talk them into moving over to Premiere just because Final Cut is still a 32-bit, uh, system, and so it's only taking advantage, it's only taking advantage of half of your processing power. And, so, like, render times are doubled. Export times are doubled. It's, it's a joke.
+
+VINNY:
+Mm-hmm.
+
+JACK:
+So...
+
+VINNY:
+I don't have any render times on my computer.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+And that's a beautiful thing.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+You know, because they forced me to use Final Cut, and I just noped right out of that. Um, now the question is, we've gone for almost an hour.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+How much longer are you guys comfortable going for? Beause I have a few community questions, and just a few other little questions. 
+
+JACK:
+I, I'm good for another, like, fifteen to twenty.
+
+RICH:
+Yeah, yeah Fifteen to twenty is good.
+
+VINNY:
+Fifteen to twenty. Cool. All right, so I'll, I'll ask a few, uh, rapid-fire questions then.
+
+JACK:
+Great.
+
+RICH:
+Sure.
+
+VINNY:
+And then we'll go to community questions. So, I guess. um, real quick, I wanted to mention, when are we getting a Space Cop video game tie-in? 
+
+RICH:
+If somebody wants to make one, more power to you. But I don't think there's been any talks of an actual video game tie-in.
+
+JACK:
+That would be great. 
+
+VINNY:
+How is...
+
+RICH:
+We’d be lucky if we get the movie done. 
+
+VINNY:
+I was gonna ask, how are you doing with that? Is, uh, it coming along a bit? 
+
+RICH:
+It's coming along. Uh, we got, like, two major sequences to shoot, but we got a lot in the can.
+
+JACK:
+Mm-hmm.
+
+RICH:
+Though, I know editing this one is probably gonna be a bitch. There’s gonna be a lot of post-production type stuff going on. 
+
+JACK:
+A lot of editing. A lot of effects. A lot of, lot of, lot of garbage.
+
+RICH:
+And that makes it sound really exciting, but, it's, it's not.
+
+JACK:
+It...
+
+RICH:
+It's not.
+
+JACK:
+Just this stuff filmed last month, I, you know, like I, I was not really, like, I'm excited for Space Cop, beause I think it's really funny premise, but the footage I've seen from the past month gets me genuinely excited about Space Cop. 
+
+RICH:
+See, now you're, now you're over-hyping the movie.
+
+JACK:
+Over-, hey...
+
+RICH:
+Everybody's gonna be let down over it.
+
+VINNY:
+Uh-oh.
+
+JACK:
+Over-hype train coming into the station, toot toot!! Mother, mother fucks. I, I, I think there's some funny stuff.
+
+RICH:
+You know, the, the funny thing is, I'm, I'm on camera all the time for RedLetterMedia.
+
+JACK:
+Mm-hmm.
+
+RICH:
+I hate watching myself on camera. It’s the most uncomfortable thing in the world. I cringe. 
+
+JACK:
+Mm-hmm.
+
+VINNY:
+Ugh.
+
+JACK:
+Nice.
+
+VINNY:
+Um, all right, uh, let's see what's next. Uh, do you guys ever want to escape from Milwaukee? That's a fan question. 
+
+RICH:
+Well, I, I came here from Chicago, so...
+
+JACK:
+Mm-hmm.
+
+RICH:
+It’s not bad.
+
+VINNY:
+Okay.
+
+RICH:
+It's a fine place. 
+
+JACK:
+I, I love Milwaukee. It's, Milwaukee, I mean, it, it's perfect for me just because no one gives a fuck about Milwaukee. And so you can just be here and do whatever you want. And that's, that's the thing I like.
+
+RICH:
+It's, it's, it's like Chicago with less traffic. 
+
+JACK:
+Yeah.
+
+RICH:
+Rush hour here is actually an hour.
+
+JACK:
+Mm-hmm.
+
+RICH:
+And that's, that's, that's unusual for me. Rush hour is, like, all day in Chicago. 
+
+JACK:
+That's true.
+
+VINNY:
+Oh, yeah.
+
+JACK:
+It's really, it's a, it's a nice city. And, you know, like, some people like the big city-thing. You know, it's not for me. I, I, I dig, I dig being able to walk down the street and say hi to people, and not get stabbed. I really enjoy that.
+
+VINNY:
+Okay. That’s good. Yeah, I mean, New York City is a big city, too. I don't like to get stabbed either.
+
+JACK:
+Right! Right. 
+
+VINNY:
+So, I'm with you on that. Um, what else?  I, I'm trying to get through as many as I can.
+
+RICH:
+Sure.
+
+VINNY:
+Uh, let's see, okay, here's a good one. Um, Star Trek. You guys Star Trek fans? 
+
+RICH:
+Yes.
+
+JACK:
+Of course.
+
+RICH:
+Moreso than Star Wars.
+
+JACK:
+Yeah.
+
+VINNY:
+All right, um, I'm a huge Star Trek fan as of recently, so I, I'm currently working my way through Enterprise. I’ve got every other series done behind me.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+Question is, what's your favorite Star Trek series, both of you? 
+
+RICH:
+Next Generation, hands down. 
+
+JACK:
+Next Generation, of course.
+
+RICH:
+It's all, it's all about Picard.
+
+JACK:
+Oh, god.
+
+VINNY:
+Nice. 
+
+JACK:
+It's all about, it's all about diplomacy, motherfucker. 
+
+RICH:
+Yes!
+
+VINNY:
+Absolutely.
+
+RICH:
+That is so, so refreshing. I love Picard.
+
+JACK:
+Mm-hmm.
+
+RICH:RICH:
+“Let’s sit down and think this over.” [inaudible] won't do that siht.
+
+VINNY:
+Yeah. Did you like Deep Space Nine, either of you?
+
+RICH:
+I like Deep Space Nine. I'm just saying my favorite is Next Gen. 
+
+VINNY:
+Okay.
+
+RICH:
+Um, god, I, I wanna say classic Trek next, but I don't know if that's just the nostalgia glasses. Deep Space Nine is quite good.
+
+JACK:
+I, I would say Next Gen, I think, I think original is mostly nostalgia glasses. There, there are some really good episodes of Original, but for me, it goes Next Gen, Voyager.
+
+RICH:
+Yeah.
+
+JACK:
+I dug the shit out of Voyager. 
+
+RICH:
+I, I love those characters. I mean, Kirk, Spock, McCoy.
+
+JACK:JACK:
+Ehh...
+
+RICH:
+It's classic.
+
+JACK:
+Watch me go, "Ehh..."
+
+RICH:
+All right, you can go, "Ehh..." if you want.
+
+JACK:
+Okay, good. 
+
+RICH:
+I don't give a shit.
+
+JACK:
+I'll do it one more time: "Ehh..."
+
+VINNY:
+I'm, I'm somewhere in the middle. But I, I see what you guys are saying. Okay, that's good to know. Next Gen, though, we, we've all agreed Next Gen is the best gen.
+
+RICH:
+Yes.
+
+JACK:
+Yeah, of course.
+
+VINNY:
+All right, um, let's talk about some favorite games. What guys, what games do you guys like the best? If you have, like, a few that you could just...
+
+RICH:
+This, this is one of those things, like, asking your favorite movie. It, it can change from week to week, or month to month.
+
+VINNY:
+At the moment then.
+
+RICH:
+Ugh...
+
+VINNY:
+A cop out question, huh?
+
+RICH:
+I haven't been playing many games at the moment because I've just been busy with Space Cop and real life stuff. Uh... 
+
+VINNY:
+Sure.
+
+RICH:
+Historically, my favorite game, I've always loved the first two Thief games.
+
+VINNY:
+Okay.
+
+JACK:
+Nice.
+
+VINNY:
+It's a good choice. 
+
+RICH:
+Yeah. Yeah. Garrett is just the best character ever. 
+
+VINNY:
+What do you think, Jack? Anything that sticks out?
+
+JACK:
+Like I said, lately I have been, I, I'm going for Platinum God in Binding of Isaac. Uh, I'm trying to get all the achievements in Binding of Isaac, so replaying that over and over and over again, it's currently my favorite game. As far as, uh, hours in go, it's, it's Team Fortress 2. That, that game is my jam up in here.
+
+VINNY:
+Nice. That's right. You have the engineer on your Skype profile there.
+
+JACK:
+I do, I...
+
+VINNY:
+Yeah.
+
+JACK:
+I, I have, I, I have so many hours into that game, it's hard not to call it my favorite. Uh, so I, I guess that, but, you know, also, you know, like, just hooking up the Super Nintendo and playing Super Mario World, and just going, “Oh, remember, fun?” 
+
+RICH:
+Here's, here's, here's a list of games I love unquestionably. There’s the first two Thiefs.
+
+VINNY:
+Okay.
+
+RICH:
+There's the two Zone of the Enders games. 
+
+VINNY:
+Okay.
+
+RICH:
+Uh, I’m really fond of Maximo. No More Heroes.
+
+JACK:
+Okay, good. 
+
+RICH:
+DOOM.
+
+JACK:
+You know, you've, you've brought up DOOM a lot...
+
+RICH:
+Quake II.
+
+JACK:
+...and I, I'm gonna call bullshit on anyone who DOOM is their favorite game. I think that's...
+
+RICH:
+Oh, fuck you. 
+
+VINNY:
+We got a few people here that like DOOM a lot. 
+
+JACK:
+Well, it's just so ugly, though.
+
+RICH:
+I, I, I love the sprites.
+
+JACK:
+Ehh...ehh...!
+
+RICH:
+That doesn’t, that doesn't change the fact that it's fun to just go nuts and shoot everything. 
+
+JACK:
+That's why I like Team Fortress 2.
+
+RICH:
+All right, all right.
+
+VINNY:
+Okay.
+
+JACK:
+Ehh...
+
+VINNY:
+So, all right, um, this one's from Cowboy_Sam. Um, first one's for Rich. I'll just ask the Rich one, because it's a good one. Uh, you brought up Mass Effect 3, Mass Effect 3’s ending...
+
+RICH:
+Yes.
+
+VINNY:
+...several times in your reviews, using it as an example of a poor ending. As a writer yourself, how do you approach the ending of the Mass Effect series?
+
+RICH:
+Well, I think the problem with Mass Effect is, they had no idea what they were doing in the first place. I, I, I think, you know, I mean, I love Mass Effect 2, but looking back on it, they don't really move the plot forward. They're not moving towards a solution. It's just, it's just like another adventure. And then by the time they get to the third, I think they had a very good idea how they wanted to end all of the subplots.
+
+VINNY:
+Mm-hmm.
+
+RICH:
+But I, the, the main Reaper thing just feels like they pulled it out of their ass at the last second. They said, “Ehh, it's, we'll do something artsy.” And it, hat ending just does not work for that series. So, I don't, I don't know what I would have done. I don't know what you could have done, because I don't think they set it up properly in the first place. That's my answer.
+
+VINNY:
+Okay. Um, any thoughts -- from Fish_of_Sex -- any thoughts on a version of Best of the Worst without video, with video games? 
+
+JACK:
+Actually, you know, someone just mentioned somewhere, like, in the, in the comments section about our E3 video...
+
+VINNY:
+Mm-hmm.
+
+JACK:
+...where they would have liked to see our reactions to the conferences, like we do on Best of the Worst. And I actually thought that was a really good idea.
+
+RICH:
+As far as, as far as the playing bad games and making fun of them, don't other people do already, I mean, that's, that's...
+
+VINNY:
+That's kind of what I do, too. 
+
+JACK:
+Right.
+
+RICH:
+That's the Angry Video Game Nerd. A lot of people do that, I mean...
+
+VINNY:
+Sure.
+
+JACK:
+You know, it...
+
+VINNY:
+It's done to death. 
+
+RICH:
+Yeah.
+
+JACK:
+I think, actually, what we do on Previously Recorded is very similar to Best of the Worst, where we have footage of us on the couch playing the game, and, and...
+
+RICH:
+I mean, we only have three episodes so far, so...
+
+JACK:
+Right, exactly. Well, technically we have five, but only, only three out.
+
+RICH:
+Only three released.
+
+JACK:
+Only three released. So, but, you know, like, I, I think maybe that's something more where we would stream. 
+
+RICH:
+Yeah. Yeah, if we’re gonna play a bad game, an old game, we'd probably just...
+
+JACK:
+Save it for a livestream.
+
+RICH:
+Yeah.
+
+JACK:
+Just because then I don't have to worry about looking at it over and over again. And editing. But, yeah.
+
+VINNY:
+Okay. From PTCF4, what do you guys think about the concept of early access games?
+
+RICH:
+Jack hates them. I, I, I don't mind. I, I'm just gonna wait till it's done anyway, so if somebody else wants to play it early, I don't give a fuck.
+
+VINNY:
+Okay. 
+
+JACK:
+Yeah, I think, I, I think I left this in the, the E3 edit. Early access is nothing but bullshit marketing. And, it, all it's doing is, is building up hype for the beta release so people can play it and let these developers fix all the bugs, and then there's no hype left for when the game comes out. 
+
+VINNY:
+Mm-hmm.
+
+RICH:
+They, they want to make money, and somebody saw that Minecraft made a shitload of money.
+
+VINNY:
+Mm-hmm.
+
+RICH:
+So they’re going to keep doing it. 
+
+JACK:
+Oh, of course, they’re going to keep doing it. And I, I think it’s terrible, uh, and I try my very hardest to stay away from any game that is not finished.
+
+RICH:
+I, I don't, I don’t know that I would wanna play a beta unfinished version of a game, but...
+
+JACK:
+Mm-hmm.
+
+RICH:
+...just watching, like, the, the videos tha the people who made, uh, Prison Architect have been making, like, watching the progress just on, on their YouTube channel...
+
+JACK:
+Sure.
+
+RICH:
+That's been fun. 
+
+JACK:
+Okay.
+
+VINNY:
+Okay. Well, I mean, it, for me it goes both ways. It could be bad. It could be good. It depends, really. Um, it, sometimes an early access works.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+And I don't mind playing it, and testing it out. Most of the time, I'm with Jack, though, and, and I don't really wanna ruin the hype or the surprise for myself, so I kind of stay away from early access for bigger games, but if it's an indie game that's, like, almost done anyway, then all right, why not?
+
+JACK:
+Sure. Well, yeah, it's a [inaudible], but, like, you know, for example, Day Z is something, the Day Z standalone was something that I was crazy hyped about. And, you know, following every single little pinch of development.
+
+VINNY:
+Mm-hmm.
+
+JACK:
+And now we're, we're what, two years away, and not even closer to a release. And I, I'm done. I'm done with Day Z, and the game isn't even out yet. Um...
+
+VINNY:
+I hear ya. It's like that with Rust, too.
+
+JACK:
+Yeah.
+
+VINNY:
+But Rust is making developments, you know, to redo their thing from the ground up, so, yeah. 
+
+JACK:
+Yeah, but, like, even, even Rust is like that. There, there's a game that I got really psyched about, and I played a little bit. It's still in early access. It's called, uh, Sir, You Are Being Hunted, and it's, like, I've played enough of the beta, now where I don't care if they fix anything, because I’m done playing the game. 
+
+RICH:
+Here's the thing, though, Jack. You can, you can choose not to play it. Does it really bother you that they do it? 
+
+JACK:
+It bothers me because now I'm not excited about it.
+
+VINNY:
+Mm.
+
+RICH:
+But you didn't have to play it and get excited about it. You could have said, "Okay, this is a thing that they're working on, I'll wait till it's done."
+
+JACK:
+Yeah, oh, but I haven't even played the Day Z standalone, and I'm no longer excited about it, because I've...
+
+RICH:
+Just, just from the constant hype?
+
+JACK:
+Just from the constant hype. 
+
+RICH:
+Ehh...you're, you’re nuts.
+
+JACK:
+It's true, I am nuts. I'm an incredible asshole.
+
+VINNY:
+Okay, next. I, I, I do have another one.
+
+JACK:
+Okay.
+
+VINNY:
+Just a few more quick ones. Uh, first one is from Reggie_Giggity. Uh, have there been any video game adaptations of movies which were not horrible, that you guys like. 
+
+RICH:
+I don't know that I've gone out of my way to play movie adaptations. 
+
+JACK:
+Oh, wait. Wait, a video game adaptation of a movie...
+
+RICH:
+Yeah.
+
+JACK:
+...or a movie adaptation of a video game? What was the question?
+
+VINNY:
+Um...
+
+RICH:
+I think it was, like, a video game adaptation of a movie, right? 
+
+VINNY:
+Yeah, yeah. So, any, any that you like? I mean, Goldeneye springs to mind immediately as one that everyone seems to, you know, say is the best. 
+
+JACK:
+Like, I really enjoyed a lot of the, the first couple of Spider-Man games for PS2. 
+
+VINNY:
+Okay.
+
+JACK:
+Those were, you know...
+
+RICH:
+Ehh...
+
+JACK:
+...just because you get to play Spider-Man and swing around. In Spider-Man 2...
+
+RICH:
+Spider-Man 2 is only good for the web swinging. 
+
+JACK:
+Yeah.
+
+RICH:
+The rest of the game is crap.
+
+JACK:
+Of course But, I felt, it felt really nice to play as Spider-Man.
+
+RICH:
+Okay. Okay.
+
+JACK:
+And, and, you know, like, do you remember the first Spider-Man game, if you beat it a certain way, then you could play the entire game as the Green Goblin, and just bomb everyone? That was neat. Um, I'm trying to think of any other video games based off of movies. Oh, did, have you guys seen the, uh, this isn't based off of a movie, but the, uh, the Pixel enterprise that you can go around as play as Data?
+
+VINNY:
+Yes.
+
+JACK:
+Like, that was, that was really neat, just as a dork.
+
+RICH:
+I, I will be interested when somebody makes a game out of that. 
+
+VINNY:
+There's already, you know, um, the Oculus Rift, right? 
+
+JACK:
+Mm-hmm.
+
+RICH:
+I keep hearing about it, yeah.
+
+VINNY:
+Yeah, they, someone made a 3D modeled Enterprise bridge, ready room, and I believe conference room. I streamed it. And it's just, it's just that. And then, you know, you can't really explore the Enterprise, but you can see, like, the stations in first-person mode. It’s, it's okay. I think in a few years, we'll get like the whole Enterprise...
+
+JACK:
+Oh, sure.
+
+VINNY:
+...when VR becomes a thing, you know?
+
+JACK:
+I see someone in the chat mentioning the, uh, Power Rangers, the movie Super Nintendo game. Fuck you for remembering that. Their attempt at a side scrolling brawler with the Power Rangers. It's terrible.
+
+VINNY:
+Oh, my lord.
+
+RICH:
+There's, there's, there's gotta be a good movie game, but, I'm gonna. I'm gonna, I'm gonna take too long thinking about it.
+
+JACK:
+Exactly.
+
+VINNY:
+That's okay. We'll, we'll move on to the next one. Um, there's, like I said, maybe two more last questions. Final ones.
+
+JACK:
+Okay.
+
+VINNY:
+From Joel, who's a streamer here, who wanted me to tell you that he's a huge fan of you guys.
+
+RICH:
+Thanks, Joel!
+
+VINNY:
+The same as I am. We've been watching you for, you know, sleep and piss for years, and it's -- I'll be in your bedroom tonight -- I was gonna say, uh, what? 
+
+JACK:
+Nothing, nothing. We're just slowly walking out of the room. 
+
+VINNY:
+Joel is, uh, no, he's, uh, he's, he's like me, where we started watching, uh, Mike's videos, and then we progressed, and, you know, I have Feeding Frenzy. I actually have a quick piece of history from this site. I actually emailed Mike about three years ago...
+
+JACK:
+Mm-hmm.
+
+VINNY:
+...and he did a little Plinkett voice clip for us. He did a little promo for us.
+
+RICH:
+Oh, nice.
+
+JACK:
+Nice.
+
+VINNY:
+Yeah, and we had it on our site. And when we weren't streaming, it would pop up every now, and then and just say, "Go to RedLetterMedia, Vinny is a fucking asshole."
+
+Jack
+Nice.
+
+VINNY:
+It was perfect. I, seriously, I'll always be grateful to Mike for that. Um, and, and another thing, I have an autographed copy of Feeding Frenzy, and I specifically asked for Jay and Mike, but not you, Rich. 
+
+RICH:
+Oh, you son of a bitch.
+
+VINNY:
+Rich, why weren't you in that?
+
+RICH:
+What?
+
+VINNY:
+Or, you, you, in Feeding Frenzy? 
+
+RICH:
+I am in it! 
+
+VINNY:
+Where are you? 
+
+RICH:
+I'm Mr. Plinkett! 
+
+VINNY:
+Oh, that's right. 
+
+RICH:
+Oh, for crying out loud. Oh, for...
+
+VINNY:
+The next question is, where do you get the VHS movies for Best of The Worst, anyway? Donations, bought from thrift shops, or stolen from Satan's fiery asshole?
+
+RICH:
+Uh, all three.
+
+JACK:
+Right. 
+
+RICH:
+Uh, we get plenty of people to send us stuff, and then, we get a lot from thrift stores.
+
+JACK:
+Yeah.
+
+VINNY:
+Okay.
+
+RICH:
+Mostly people send us stuff at this point, though. 
+
+JACK:
+Yeah, which is great. Keep sending us stuff. It's, it's, it's great. But, you know, like...
+
+RICH:
+Some people, some people don't get it, though. They'll, like, send us the Matrix Revolutions, and we're, we're not gonna do that on Best of the Worst.
+
+JACK:
+Or they'll send us Jerry Maguire, or something like that. 
+
+RICH:
+Yeah.
+
+VINNY:
+Okay.
+
+JACK:
+But yeah, we definitely, for sure, I think the, the most famous is Elves, Jay found at a secondhand store in, like, Montana. 
+
+VINNY:
+Okay.
+
+RICH:
+I think it was actually a pawn shop.
+
+JACK:
+Ah, a pawn shop. Some, teah, it was just the craziest find ever and, but, but we have a lot of great secondhand stores and, and, uh, 7 Mile Fair. 
+
+VINNY:
+Okay.
+
+JACK:
+It’s a large rummage sale.
+
+VINNY:
+And, I guess this one's just from me as a final question. Um, since you guys have gotten a lot of attention from the internet and, you know, with the Half in the Bag stuff, with the reviews and now that you guys are doing the video game show, which a lot of people seem to like, how has it been? I mean, you guys have been doing this for, for years, but now you're getting a lot of attention. Have the fans been nice? Has it, has it been annoying? And, um, wh-, wh-, honestly, like, how do you feel about this internet fame stuff there? 
+
+RICH:
+There, there are a lot of good fans out there. Um, then there's some, some creepy ones, too. Um...
+
+VINNY:
+I know.
+
+RICH:
+There's some people online who are borderline scary.
+
+JACK:
+Mm-hmm.
+
+VINNY:
+Mm-hmm.
+
+RICH:
+But then, then, you know, every now and then you'll meet somebody in real life who is just very friendly, and will come up and shake your hand. 
+
+JACK:
+Yeah.
+
+RICH:
+I'm, I'm gonna tell a story. I've, I've told it before, but it's, it's the ultimate recognized in public story, okay.
+
+VINNY:
+Sure.
+
+RICH:
+Um, I was just browsing around this used DVD store by where I used to live. And I'm just, I'm just minding my own business, looking at the movies. And this guy behind the counter notices me. He's not 100% sure it's, it's me, though, it's Rich Evans.
+
+VINNY:
+Uh-huh.
+
+RICH:
+So he goes to the RedLetterMedia site, and he pulls up one of our old videos, the, the one with the monkey man.
+
+VINNY:
+Uh-huh.
+
+RICH:
+And in that video, there's footage of my grandmother, who's now deceased, right? So, so he pulls up this video on the store computer. Now I'm. I'm, I'm elsewhere in the store, I'm just minding my own business. And this guy plays this video on the store speakers and just, out of nowhere, I hear my dead grandmother's voice in this DVD store, and I, I jumped like ten feet straight into the air. I turn around and there's this clerk going, "Hey, you’re Rich Evans!"
+
+VINNY:
+Oh, my god!
+
+JACK:
+I love that story.
+
+RICH:
+It's a great story, and I've probably told it eight times though, but I love it. 
+
+VINNY:
+I didn't know it. And that's, that's pretty, oh, how was it, though? I mean, you've been recognized more times than that. Do you like being stopped, if people recognize you?
+
+RICH:
+I, I don't mind. I don't mind. I mean, if I'm busy doing something with somebody else, a little, make it quick. "Oh, yeah, nice, nice to meet you!"
+
+JACK:
+Mm-hmm.
+
+VINNY:
+Okay.
+
+RICH:
 I’ll, I'll say hi. It's, it's nice being noticed. 
 
-Vinny:
+VINNY:
 Cool.
 
-Jack:
+JACK:
 Yeah. It, it's, it's very nice. I, unfortunately, have had garnered a nickname on, on the internet, which, you know, you can't help. But it's, everyone, everyone who I've met face to face has been very nice. 
 
-Vinny:Okay.
+VINNY:
+Okay.
 
-Rich:
+RICH:
 Yeah, yeah.
 
-Vinny:
+VINNY:
 That's good.
 
-Jack:
+JACK:
 Other...
 
-Vinny:
+VINNY:
 Same here.
 
-Jack:
+JACK:
 Yeah.
 
-Vinny:Yeah.
+VINNY:
+Yeah.
 
-Rich:
+RICH:
 I've, I've never met anyone in person who's been, like, a jerk, who said, "I hate you, and your laugh sucks, right?"
 
-Jack:Right!
+JACK:
+Right!
 
-Rich:
+RICH:
 That is, that has, that has never happened.
 
-Vinny:
+VINNY:
 It's easier when you have the anonymity of a computer behind you to say whatever you want.
 
-Jack:Yeah.
-
-Vinny:
-But, that being said, I wanna thank you two, uh, a lot. Um, seriously, this, this was a thrill for me. I mean, it's just great to talk to you guys and get to learn a little bit about the stuff I've been watching for the past four years, you know? Um, I wish you, like, seriously, all the best with Previously Recorded. And, uh, I, seriously, I recommend it to everyone that's watching right now, twitch.tv/PreviouslyRecorded_live. And, of course, if you wanted to check out their videos, you could go to RedLetterMedia.com, and look for Previously Recorded. Um, so, Jack, thank you. 
-
-Jack:
-Hey, thanks for having us.
-
-Rich:
-Yeah, it's been nice, Vinny. 
-
-Vinny:
-Yeah, it's been a pleasure. And Rich, thank you so much for, uh, you know, putting up with all our shit on the internet. 
-
-Rich:
-That's okay. Pay attention to Feeding Frenzy the next time you watch it. 
-
-Vinny:
-Um, yeah. Yeah. No, I, I, I have watched the movie…
-
-Jack:
-Sure, yeah, we believe you, too.
-
-Rich:
-I’m just giving you shit. It’s all right.
-
-Vinny:
-Remember, there was a scene where Jay was jerking off under a cover. I remember that.
-
-Rich:Yes, that happened. That was...
-
-Vinny:
-Somehow I remember that, but not Rich Evans being in the fucking movie. Jesus.
-
-Rich:
-Sadly, that was my idea, too. What do we do for this scene? Uh, Jay, why don’t you just jerk off? 
-
-Jack:
-It was a funny scene. 
-
-Vinny:
-All right, well, you guys, again, thanks for, uh, joining me today. And I'll tell you what. Everyone check out their channel. Check out RedLetterMedia. And you two have a great day. And I'll see you next time you stream. 
-
-Jack:
+JACK:
 Yeah.
 
-Rich:
+VINNY:
+But, that being said, I wanna thank you two, uh, a lot. Um, seriously, this, this was a thrill for me. I mean, it's just great to talk to you guys and get to learn a little bit about the stuff I've been watching for the past four years, you know? Um, I wish you, like, seriously, all the best with Previously Recorded. And, uh, I, seriously, I recommend it to everyone that's watching right now, twitch.tv/PreviouslyRecorded_live. And, of course, if you wanted to check out their videos, you could go to RedLetterMedia.com, and look for Previously Recorded. Um, so, Jack, thank you. 
+
+JACK:
+Hey, thanks for having us.
+
+RICH:
+Yeah, it's been nice, Vinny. 
+
+VINNY:
+Yeah, it's been a pleasure. And Rich, thank you so much for, uh, you know, putting up with all our shit on the internet. 
+
+RICH:
+That's okay. Pay attention to Feeding Frenzy the next time you watch it. 
+
+VINNY:
+Um, yeah. Yeah. No, I, I, I have watched the movie…
+
+JACK:
+Sure, yeah, we believe you, too.
+
+RICH:
+I’m just giving you shit. It’s all right.
+
+VINNY:
+Remember, there was a scene where Jay was jerking off under a cover. I remember that.
+
+RICH:
+Yes, that happened. That was...
+
+VINNY:
+Somehow I remember that, but not Rich Evans being in the fucking movie. Jesus.
+
+RICH:
+Sadly, that was my idea, too. What do we do for this scene? Uh, Jay, why don’t you just jerk off? 
+
+JACK:
+It was a funny scene. 
+
+VINNY:
+All right, well, you guys, again, thanks for, uh, joining me today. And I'll tell you what. Everyone check out their channel. Check out RedLetterMedia. And you two have a great day. And I'll see you next time you stream. 
+
+JACK:
+Yeah.
+
+RICH:
 Thank you! Have a nice one.
 
-Jack:
+JACK:
 Bye. 
 
-Vinny:
+VINNY:
 All right. Peace out, guys. Later. All right, so there you go. There was Jack and...Jack Picard and Rick Stevens. Um, man, I so deserve that. I didn't remember that Plinkett was in Feeding Frenzy, but, hey, what are you gonna do? I'll just, I'll just drink myself to death. Don't worry about it. In any case, though, seriously, that was, uh, amazing. Thank you, guys, for the fan questions for Rich and Jack. And thank you for joining me for this interview. I think this was one of my favorites. I mean, not just because I know the guys from watching their, their videos and stuff, but because they were just fucking really forthcoming and nice dudes. And I even got Rich to laugh a little bit, and that is a personal achievement I will never forget. One day I will develop a laugh more annoying than Rich Evans. One day. That day is not this day. What I'm gonna do, though, for now is, I'm gonna take a quick break, and I'm gonna stream a little bit of Mario Kart just to take the edge off, really. And, yeah, I'll, I'll see you guys in a few minutes with some Mario Kart 8. So stick around. I'll be right back.
